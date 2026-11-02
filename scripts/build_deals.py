@@ -42,7 +42,11 @@ def main():
 
     # 2) Kavalkader fra Zernio (kun Instagram-postene, de er like TikTok)
     if KEY:
-        posts = get("https://zernio.com/api/v1/posts?limit=30", {"Authorization": f"Bearer {KEY}", "User-Agent": "tilbud-bot"}).get("posts", [])
+        try:
+            posts = get("https://zernio.com/api/v1/posts?limit=30", {"Authorization": f"Bearer {KEY}", "User-Agent": "tilbud-bot"}).get("posts", [])
+        except Exception as e:
+            print("Zernio-feil (sjekk ZERNIO_KEY):", e)
+            posts = []
         for p in posts:
             if "instagram" not in [x.get("platform") for x in p.get("platforms", [])]:
                 continue
