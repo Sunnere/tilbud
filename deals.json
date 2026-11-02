@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T21:35:25Z",
+ "updated": "2026-11-02T18:45:54Z",
  "deals": [
   {
    "brand": "Acer",
@@ -27,6 +27,15 @@
    "url": "https://www.awin1.com/pclick.php?p=40642947539&a=3126086&m=25181",
    "type": "produkt",
    "date": "2026-10-31T11:21:19Z"
+  },
+  {
+   "brand": "Småungene",
+   "title": "Opptil 70% rabatt på hele nettbutikken i Black November",
+   "text": "",
+   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,h_1080,w_1080/e_gradient_fade,y_0.42,b_rgb:0B1A30/e_gradient_fade,y_-0.22,b_rgb:0B1A30/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:SM%C3%85UNGENE/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:Opptil%2070%2525%20rabatt/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/rktvg8ny6zwuwjkhbtnp.jpg",
+   "url": "https://to.smaaungene.no/t/t?a=2057057213&as=2074526845&t=2&tk=1",
+   "type": "kampanje",
+   "date": "2026-11-02T18:31:58.116Z"
   },
   {
    "brand": "Kost1",
@@ -81,15 +90,6 @@
    "url": "https://www.awin1.com/cread.php?awinmid=125850&awinaffid=3126086",
    "type": "kampanje",
    "date": "2026-10-30T18:32:22.640Z"
-  },
-  {
-   "brand": "Lysterapi.no",
-   "title": "30% rabatt pluss 200 kr ekstra for de 20 første med kode SOVBEDRE",
-   "text": "",
-   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fit,w_960,h_560/r_28/c_lpad,w_1080,h_920,g_south,b_rgb:0B1A30/c_lpad,w_1080,h_1080,g_north,b_rgb:0B1A30/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:MURLONG%20CRES/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:25%20%2525%20p%C3%A5%20Elsa%20Bustier/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_60/f_jpg/q_auto/haxohazei3ats8p7dc33.jpg",
-   "url": "https://do.lysterapi.no/t/t?a=2019457240&as=2074526845&t=2&tk=1",
-   "type": "kampanje",
-   "date": "2026-10-28T10:32:34.254Z"
   }
  ]
 }
