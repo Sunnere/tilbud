@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="no"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>BonusShop – dagens tilbud</title>
+<meta name="description" content="Dagens kampanjer og prisfall fra BonusShop – trykk og gå rett til butikken.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700;800&display=swap" rel="stylesheet">
+<style>
+:root{--navy:#0B1A30;--navy2:#13284a;--gold:#D4AF37;--txt:#F5F1E8;--mut:#9DA9BE}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:Montserrat,system-ui,sans-serif;background:var(--navy);color:var(--txt);padding:0 16px 40px;max-width:560px;margin:0 auto}
+header{text-align:center;padding:28px 0 18px}
+header .logo{font-weight:800;font-size:26px;letter-spacing:.5px}header .logo span{color:var(--gold)}
+header p{color:var(--mut);font-size:14px;margin-top:6px}
+h2{font-size:15px;letter-spacing:2px;text-transform:uppercase;color:var(--gold);margin:22px 0 12px}
+.card{background:var(--navy2);border:1px solid rgba(212,175,55,.25);border-radius:18px;overflow:hidden;margin-bottom:14px}
+.card img{width:100%;display:block;aspect-ratio:1/1;object-fit:cover;background:#0f2240}
+.card .b{padding:14px 16px 16px}
+.brand{color:var(--gold);font-weight:800;font-size:13px;letter-spacing:2px;text-transform:uppercase}
+.title{font-weight:700;font-size:18px;margin-top:4px;line-height:1.3}
+.sub{color:var(--mut);font-size:14px;margin-top:4px}
+.btn{display:block;text-align:center;margin-top:12px;background:linear-gradient(135deg,#F3CB6B,#D4AF37);color:#120C02;font-weight:800;text-decoration:none;padding:14px;border-radius:12px;font-size:16px}
+.fly{background:#1F3B66}
+#q{width:100%;padding:12px 14px;border-radius:12px;border:1px solid #2b3d5c;background:#0f2240;color:var(--txt);font-size:16px;margin-bottom:10px}
+.list a{display:flex;justify-content:space-between;align-items:center;padding:12px 4px;border-bottom:1px solid #1d3050;color:var(--txt);text-decoration:none;font-weight:600}
+.list a span{color:var(--gold)}
+.note{color:var(--mut);font-size:12px;text-align:center;margin-top:26px;line-height:1.5}
+.note a{color:var(--gold)}
+</style></head><body>
+<header><div class="logo">Bonus<span>Shop</span></div><p>Dagens tilbud – trykk og gå rett til butikken</p></header>
+<h2>🔥 Siste kampanjer</h2><div id="deals"><p class="sub">Laster tilbud …</p></div>
+<div class="card fly"><div class="b"><div class="brand">✈️ Flyhjelp.no</div><div class="title">Forsinket eller kansellert fly?</div><div class="sub">Sjekk om du har krav på kompensasjon.</div><a class="btn" id="flylink" href="#" rel="sponsored noopener">Sjekk flyreisen din →</a></div></div>
+<h2>🛍️ Alle butikker</h2><input id="q" placeholder="Søk etter butikk …" autocomplete="off"><div class="list" id="list"></div>
+<p class="note">Reklame: lenkene er affiliatelenker – BonusShop kan få provisjon når du handler.<br>Prisene og tilbudene kan endre seg. Vil du ha cashback? Handle via <a href="https://bonusshop.no">bonusshop.no</a>.</p>
+<script>
+const esc=s=>(s||"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+Promise.all([fetch("deals.json?"+Date.now()).then(r=>r.json()),fetch("brands.json").then(r=>r.json())]).then(([d,b])=>{
+ const el=document.getElementById("deals");
+ el.innerHTML=(d.deals||[]).map(x=>`<div class="card">${x.image?`<img loading="lazy" src="${esc(x.image)}" alt="${esc(x.brand)}">`:""}<div class="b"><div class="brand">${esc(x.brand)}</div><div class="title">${esc(x.title)}</div>${x.text?`<div class="sub">${esc(x.text)}</div>`:""}<a class="btn" href="${esc(x.url)}" rel="sponsored noopener" target="_blank">Til butikken →</a></div></div>`).join("")||'<p class="sub">Ingen nye kampanjer akkurat nå – se alle butikker under.</p>';
+ const fly=b.find(x=>x.name.toLowerCase().startsWith("flyhjelp"));if(fly)document.getElementById("flylink").href=fly.url;
+ const list=document.getElementById("list"),q=document.getElementById("q");
+ const draw=()=>{const t=q.value.toLowerCase();list.innerHTML=b.filter(x=>x.name.toLowerCase().includes(t)).map(x=>`<a href="${esc(x.url)}" rel="sponsored noopener" target="_blank">${esc(x.name)}<span>→</span></a>`).join("")};
+ q.oninput=draw;draw();
+}).catch(()=>{document.getElementById("deals").innerHTML='<p class="sub">Kunne ikke laste tilbud.</p>'});
+</script>
+</body></html>

@@ -1,0 +1,658 @@
+[
+ {
+  "name": "Acer",
+  "url": "https://www.awin1.com/cread.php?awinmid=24784&awinaffid=3126086",
+  "logo": "",
+  "site": "",
+  "cat": "",
+  "net": "awin"
+ },
+ {
+  "name": "Agelab",
+  "url": "https://on.agelab.no/t/t?a=1983136777&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=1983136773",
+  "site": "https://agelab.no",
+  "cat": "Health & Beauty",
+  "net": "adtraction"
+ },
+ {
+  "name": "Amisol",
+  "url": "https://dot.amisol.no/t/t?a=1920472838&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=1920472834",
+  "site": "https://www.amisol.no",
+  "cat": "Travel",
+  "net": "adtraction"
+ },
+ {
+  "name": "Askeladden Navnelapper",
+  "url": "https://id.navnelapper.no/t/t?a=1230810630&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=1230810625",
+  "site": "https://www.navnelapper.no",
+  "cat": "Family",
+  "net": "adtraction"
+ },
+ {
+  "name": "Asuro",
+  "url": "https://dot.asuro.no/t/t?a=2053916424&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=2053916420",
+  "site": "https://asuro.no",
+  "cat": "Electronics",
+  "net": "adtraction"
+ },
+ {
+  "name": "Babybanden",
+  "url": "https://go.adt242.com/t/t?a=2087841936&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=2087841932",
+  "site": "https://www.babybanden.no",
+  "cat": "Family",
+  "net": "adtraction"
+ },
+ {
+  "name": "Batteriexperten",
+  "url": "https://pin.batteriexperten.com/t/t?a=1954023395&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=1954023384",
+  "site": "https://www.batteriexperten.com/no",
+  "cat": "Electronics",
+  "net": "adtraction"
+ },
+ {
+  "name": "BilXtra",
+  "url": "https://at.bilxtra.no/t/t?a=1929058204&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=1929058200",
+  "site": "https://bilxtra.no",
+  "cat": "Automotive",
+  "net": "adtraction"
+ },
+ {
+  "name": "Björn Borg",
+  "url": "https://to.bjornborg.com/t/t?a=1887444812&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=1887444807",
+  "site": "https://www.bjornborg.com/no",
+  "cat": "Fashion",
+  "net": "adtraction"
+ },
+ {
+  "name": "Bålstedet",
+  "url": "https://in.baalstedet.no/t/t?a=2108250036&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=2108250032",
+  "site": "https://baalstedet.no",
+  "cat": "Home & Garden",
+  "net": "adtraction"
+ },
+ {
+  "name": "Chicastore.no",
+  "url": "https://ion.chicastore.no/t/t?a=1689202641&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=1689202636",
+  "site": "https://chicastore.no",
+  "cat": "Health & Beauty",
+  "net": "adtraction"
+ },
+ {
+  "name": "CS MEGASTORE",
+  "url": "https://go.csmegastore.no/t/t?a=1319511603&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=1319511498",
+  "site": "https://csmegastore.no",
+  "cat": "Electronics",
+  "net": "adtraction"
+ },
+ {
+  "name": "CURLI",
+  "url": "https://in.curli.no/t/t?a=2031658456&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=2031658452",
+  "site": "https://www.curli.no",
+  "cat": "Health & Beauty",
+  "net": "adtraction"
+ },
+ {
+  "name": "DB Journey",
+  "url": "https://www.awin1.com/cread.php?awinmid=109844&awinaffid=3126086",
+  "logo": "",
+  "site": "",
+  "cat": "",
+  "net": "awin"
+ },
+ {
+  "name": "Dekk.eu",
+  "url": "https://pin.dekk.eu/t/t?a=1587728672&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=1587728667",
+  "site": "https://www.dekk.eu",
+  "cat": "Automotive",
+  "net": "adtraction"
+ },
+ {
+  "name": "DentaWorks",
+  "url": "https://id.dentaworks.no/t/t?a=1235227140&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=1235227135",
+  "site": "https://www.dentaworks.no",
+  "cat": "Health & Beauty",
+  "net": "adtraction"
+ },
+ {
+  "name": "Detailshop",
+  "url": "https://go.detailshop.no/t/t?a=1516789385&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=1516789380",
+  "site": "https://www.detailshop.no",
+  "cat": "Automotive",
+  "net": "adtraction"
+ },
+ {
+  "name": "Devold",
+  "url": "https://id.devold.com/t/t?a=1535014142&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=1535014135",
+  "site": "https://www.devold.com",
+  "cat": "Sport & Outdoors",
+  "net": "adtraction"
+ },
+ {
+  "name": "Dr. Stine",
+  "url": "https://www.awin1.com/cread.php?awinmid=125850&awinaffid=3126086",
+  "logo": "",
+  "site": "",
+  "cat": "",
+  "net": "awin"
+ },
+ {
+  "name": "Drømmerom",
+  "url": "https://dot.drommerom.no/t/t?a=2033500009&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=2033500004",
+  "site": "https://drommerom.no",
+  "cat": "Home & Garden",
+  "net": "adtraction"
+ },
+ {
+  "name": "Dustin",
+  "url": "https://ion.dustin.no/t/t?a=1755471356&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=1755471352",
+  "site": "https://www.dustin.no",
+  "cat": "Electronics",
+  "net": "adtraction"
+ },
+ {
+  "name": "Dyson",
+  "url": "https://www.awin1.com/cread.php?awinmid=25181&awinaffid=3126086",
+  "logo": "",
+  "site": "",
+  "cat": "",
+  "net": "awin"
+ },
+ {
+  "name": "Elon",
+  "url": "https://to.elon.no/t/t?a=1606753966&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=1606753961",
+  "site": "https://www.elon.no",
+  "cat": "Electronics",
+  "net": "adtraction"
+ },
+ {
+  "name": "Estore",
+  "url": "https://pin.estore.no/t/t?a=1960533588&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=1960533585",
+  "site": "https://estore.no",
+  "cat": "Electronics",
+  "net": "adtraction"
+ },
+ {
+  "name": "Fabel",
+  "url": "https://in.fabel.no/t/t?a=1550298256&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=1550298251",
+  "site": "https://fabel.no",
+  "cat": "Media",
+  "net": "adtraction"
+ },
+ {
+  "name": "Fiskeonline",
+  "url": "https://do.fiskeonline.com/t/t?a=1954034787&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=1954034784",
+  "site": "https://fiskeonline.com/no",
+  "cat": "Sport & Outdoors",
+  "net": "adtraction"
+ },
+ {
+  "name": "Fjordline",
+  "url": "https://at.fjordline.com/t/t?a=2045913274&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=2045913270",
+  "site": "https://fjordline.com/nb",
+  "cat": "Travel",
+  "net": "adtraction"
+ },
+ {
+  "name": "Flyhjelp",
+  "url": "https://dot.flyhjelp.no/t/t?a=1870470396&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=1870470393",
+  "site": "https://flyhjelp.no",
+  "cat": "Travel",
+  "net": "adtraction"
+ },
+ {
+  "name": "GLOWiD",
+  "url": "https://go.glowid.no/t/t?a=2070454675&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=2070454671",
+  "site": "https://glowid.no",
+  "cat": "Health & Beauty",
+  "net": "adtraction"
+ },
+ {
+  "name": "Hansen Racing",
+  "url": "https://id.hansenracing.no/t/t?a=2080600230&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=2080600226",
+  "site": "https://www.hansenracing.no",
+  "cat": "Automotive",
+  "net": "adtraction"
+ },
+ {
+  "name": "Hudprodukter",
+  "url": "https://do.hudprodukter.no/t/t?a=1894928209&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=1894928205",
+  "site": "https://hudprodukter.no",
+  "cat": "Health & Beauty",
+  "net": "adtraction"
+ },
+ {
+  "name": "Hulténs",
+  "url": "https://ion.hultens.no/t/t?a=1839146301&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=1839146297",
+  "site": "https://www.hultens.no",
+  "cat": "Home & Garden",
+  "net": "adtraction"
+ },
+ {
+  "name": "I Love Dogs",
+  "url": "https://pin.ilovedogs.no/t/t?a=1155380392&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=1155380387",
+  "site": "https://www.ilovedogs.no",
+  "cat": "Hobbies & Gifts",
+  "net": "adtraction"
+ },
+ {
+  "name": "Icebug",
+  "url": "https://pin.icebug.com/t/t?a=1963337011&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=1963337006",
+  "site": "https://icebug.com/no",
+  "cat": "Sport & Outdoors",
+  "net": "adtraction"
+ },
+ {
+  "name": "Introni",
+  "url": "https://to.introni.no/t/t?a=2031663603&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=2031663599",
+  "site": "https://www.introni.no",
+  "cat": "Home & Garden",
+  "net": "adtraction"
+ },
+ {
+  "name": "IPhonehuset",
+  "url": "https://on.iphonehuset.no/t/t?a=1870259965&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=1870259960",
+  "site": "https://www.iphonehuset.no",
+  "cat": "Electronics",
+  "net": "adtraction"
+ },
+ {
+  "name": "iRobot",
+  "url": "https://on.irobot.no/t/t?a=2055097048&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=2055097043",
+  "site": "https://irobot.no",
+  "cat": "Home & Garden",
+  "net": "adtraction"
+ },
+ {
+  "name": "Ishavskraft strøm",
+  "url": "https://go.adt242.com/t/t?a=1875357634&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=1875357631",
+  "site": "https://www.ishavskraft.no",
+  "cat": "Utilities",
+  "net": "adtraction"
+ },
+ {
+  "name": "Kilden Kraft",
+  "url": "https://on.kildenkraft.no/t/t?a=1921977767&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=1921977763",
+  "site": "https://kildenkraft.no",
+  "cat": "Utilities",
+  "net": "adtraction"
+ },
+ {
+  "name": "Kinogavekort.no",
+  "url": "https://id.kinogavekort.no/t/t?a=1517232100&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=1517232095",
+  "site": "https://kinogavekort.no",
+  "cat": "Hobbies & Gifts",
+  "net": "adtraction"
+ },
+ {
+  "name": "Kinoklubb.no",
+  "url": "https://in.kinoklubb.no/t/t?a=1515861917&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=1515861911",
+  "site": "https://www.kinoklubb.no",
+  "cat": "Hobbies & Gifts",
+  "net": "adtraction"
+ },
+ {
+  "name": "Kjøpbarnevogn",
+  "url": "https://pin.kjopbarnevogn.no/t/t?a=2056647642&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=2056647638",
+  "site": "https://www.kjopbarnevogn.no",
+  "cat": "Family",
+  "net": "adtraction"
+ },
+ {
+  "name": "Kokkeglede",
+  "url": "https://in.kokkeglede.no/t/t?a=1983537558&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=1983537554",
+  "site": "https://www.kokkeglede.no",
+  "cat": "Home & Garden",
+  "net": "adtraction"
+ },
+ {
+  "name": "Kost1",
+  "url": "https://go.adt284.net/t/t?a=2085431311&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=2085431307",
+  "site": "https://www.kost1.no",
+  "cat": "Sport & Outdoors",
+  "net": "adtraction"
+ },
+ {
+  "name": "Kouture",
+  "url": "https://dot.kouture.no/t/t?a=1874789238&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=1874789234",
+  "site": "https://kouture.no",
+  "cat": "Fashion",
+  "net": "adtraction"
+ },
+ {
+  "name": "L'Occitane",
+  "url": "https://no-pin.loccitane.com/t/t?a=1817062154&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=1817062150",
+  "site": "https://no.loccitane.com",
+  "cat": "Health & Beauty",
+  "net": "adtraction"
+ },
+ {
+  "name": "Lampemesteren",
+  "url": "https://go.adt256.com/t/t?a=1975994418&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=1975994414",
+  "site": "https://www.lampemesteren.no",
+  "cat": "Home & Garden",
+  "net": "adtraction"
+ },
+ {
+  "name": "Lysterapi.no",
+  "url": "https://do.lysterapi.no/t/t?a=2019457240&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=2019457235",
+  "site": "https://lysterapi.no",
+  "cat": "Health & Beauty",
+  "net": "adtraction"
+ },
+ {
+  "name": "Maxulin",
+  "url": "https://id.maxulin.no/t/t?a=1874986248&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=1874986245",
+  "site": "https://www.maxulin.no",
+  "cat": "Health & Beauty",
+  "net": "adtraction"
+ },
+ {
+  "name": "Murlong Cres",
+  "url": "https://do.murlongcres.com/t/t?a=2030810009&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=2030810005",
+  "site": "https://murlongcres.com",
+  "cat": "Fashion",
+  "net": "adtraction"
+ },
+ {
+  "name": "Nemo",
+  "url": "https://do.nemo.no/t/t?a=2041314779&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=2041314775",
+  "site": "https://nemo.no",
+  "cat": "Sport & Outdoors",
+  "net": "adtraction"
+ },
+ {
+  "name": "Newport",
+  "url": "https://id.newporthome.no/t/t?a=1888527790&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=1888527786",
+  "site": "https://www.newporthome.no",
+  "cat": "Home & Garden",
+  "net": "adtraction"
+ },
+ {
+  "name": "NiceBeauty",
+  "url": "https://on.nicebeauty.com/t/t?a=2068167244&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=2068167240",
+  "site": "https://nicebeauty.com/no",
+  "cat": "Health & Beauty",
+  "net": "adtraction"
+ },
+ {
+  "name": "Nordicprint",
+  "url": "https://ion.nordicprint.no/t/t?a=1554807701&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=1554807696",
+  "site": "https://www.nordicprint.no",
+  "cat": "Family",
+  "net": "adtraction"
+ },
+ {
+  "name": "NordiskPuls",
+  "url": "https://in.nordiskpuls.no/t/t?a=2117992076&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=2117992072",
+  "site": "https://nordiskpuls.no",
+  "cat": "Home & Garden",
+  "net": "adtraction"
+ },
+ {
+  "name": "Norzen",
+  "url": "https://pin.norzen.no/t/t?a=2041497532&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=2041497528",
+  "site": "https://norzen.no",
+  "cat": "Health & Beauty",
+  "net": "adtraction"
+ },
+ {
+  "name": "OsloSkinlab",
+  "url": "https://at.osloskinlab.no/t/t?a=1870291912&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=1870291907",
+  "site": "https://www.osloskinlab.no",
+  "cat": "Health & Beauty",
+  "net": "adtraction"
+ },
+ {
+  "name": "Pace",
+  "url": "https://at.getpace.no/t/t?a=2025331324&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=2025331320",
+  "site": "https://www.getpace.no",
+  "cat": "Health & Beauty",
+  "net": "adtraction"
+ },
+ {
+  "name": "Pergolux",
+  "url": "https://www.awin1.com/cread.php?awinmid=62437&awinaffid=3126086",
+  "logo": "",
+  "site": "",
+  "cat": "",
+  "net": "awin"
+ },
+ {
+  "name": "Pilgrim",
+  "url": "https://on.pilgrim.net/t/t?a=1936919224&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=1936919220",
+  "site": "https://www.pilgrim.net/no-no",
+  "cat": "Fashion",
+  "net": "adtraction"
+ },
+ {
+  "name": "Polarn O. Pyret",
+  "url": "https://pin.polarnopyret.no/t/t?a=1154532206&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=1154532201",
+  "site": "https://www.polarnopyret.no",
+  "cat": "Family",
+  "net": "adtraction"
+ },
+ {
+  "name": "Reliefr",
+  "url": "https://ion.reliefr.no/t/t?a=2050655701&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=2050655697",
+  "site": "https://www.reliefr.no",
+  "cat": "Health & Beauty",
+  "net": "adtraction"
+ },
+ {
+  "name": "Rennoa",
+  "url": "https://go.rennoa.eu/t/t?a=2075294829&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=2075294824",
+  "site": "https://rennoa.eu/nb-no",
+  "cat": "Home & Garden",
+  "net": "adtraction"
+ },
+ {
+  "name": "Safira",
+  "url": "https://go.safira.com/t/t?a=1922334167&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=1922334163",
+  "site": "https://safira.com/no",
+  "cat": "Fashion",
+  "net": "adtraction"
+ },
+ {
+  "name": "SharkNinja",
+  "url": "https://www.awin1.com/cread.php?awinmid=81671&awinaffid=3126086",
+  "logo": "",
+  "site": "",
+  "cat": "",
+  "net": "awin"
+ },
+ {
+  "name": "Skeidar",
+  "url": "https://do.skeidar.no/t/t?a=2023126489&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=2023126485",
+  "site": "https://www.skeidar.no",
+  "cat": "Home & Garden",
+  "net": "adtraction"
+ },
+ {
+  "name": "Skruvat",
+  "url": "https://go.skruvat.no/t/t?a=846999738&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=846999730",
+  "site": "https://www.skruvat.no",
+  "cat": "Automotive",
+  "net": "adtraction"
+ },
+ {
+  "name": "Slikkepott",
+  "url": "https://pin.slikkepott.no/t/t?a=1871086852&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=1871086848",
+  "site": "https://slikkepott.no",
+  "cat": "Home & Garden",
+  "net": "adtraction"
+ },
+ {
+  "name": "Småungene",
+  "url": "https://to.smaaungene.no/t/t?a=2057057213&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=2057057209",
+  "site": "https://xn--smungene-b0a.no",
+  "cat": "Family",
+  "net": "adtraction"
+ },
+ {
+  "name": "Sofas and More",
+  "url": "https://www.awin1.com/cread.php?awinmid=116085&awinaffid=3126086",
+  "logo": "",
+  "site": "",
+  "cat": "",
+  "net": "awin"
+ },
+ {
+  "name": "Sportgymbutikken.no",
+  "url": "https://on.sportgymbutikken.no/t/t?a=1954024895&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=1954024891",
+  "site": "https://www.sportgymbutikken.no",
+  "cat": "Sport & Outdoors",
+  "net": "adtraction"
+ },
+ {
+  "name": "Sporttema",
+  "url": "https://do.sporttema.no/t/t?a=1960530117&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=1960530113",
+  "site": "https://www.sporttema.no",
+  "cat": "Sport & Outdoors",
+  "net": "adtraction"
+ },
+ {
+  "name": "Stille",
+  "url": "https://ion.stille.no/t/t?a=2031062571&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=2031062567",
+  "site": "https://www.stille.no",
+  "cat": "Home & Garden",
+  "net": "adtraction"
+ },
+ {
+  "name": "Timarco",
+  "url": "https://at.timarco.com/t/t?a=1036556446&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=1036556441",
+  "site": "https://www.timarco.com/no",
+  "cat": "Fashion",
+  "net": "adtraction"
+ },
+ {
+  "name": "Tjenestetorget - Solskjerming",
+  "url": "https://go.adt284.net/t/t?a=1994251782&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=1994251777",
+  "site": "https://tjenestetorget.no/solskjerming",
+  "cat": "Home & Garden",
+  "net": "adtraction"
+ },
+ {
+  "name": "Trendcarpet",
+  "url": "https://in.trendcarpet.no/t/t?a=2031419196&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=2031419192",
+  "site": "https://www.trendcarpet.no",
+  "cat": "Home & Garden",
+  "net": "adtraction"
+ },
+ {
+  "name": "Ufesa",
+  "url": "https://pin.ufesa.no/t/t?a=2124524132&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=2124524128",
+  "site": "https://ufesa.no",
+  "cat": "Home & Garden",
+  "net": "adtraction"
+ },
+ {
+  "name": "Urban Pioneers",
+  "url": "https://go.urbanpioneers.no/t/t?a=1924802615&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=1924802611",
+  "site": "https://www.urbanpioneers.no",
+  "cat": "Fashion",
+  "net": "adtraction"
+ },
+ {
+  "name": "Vinlagringskompaniet",
+  "url": "https://at.vinlagringskompaniet.no/t/t?a=1954033301&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=1954033296",
+  "site": "https://www.vinlagringskompaniet.no",
+  "cat": "Home & Garden",
+  "net": "adtraction"
+ },
+ {
+  "name": "Vy Buss",
+  "url": "https://ion.vybuss.no/t/t?a=1754400251&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=1754400247",
+  "site": "https://www.vybuss.no",
+  "cat": "Travel",
+  "net": "adtraction"
+ },
+ {
+  "name": "Xlash",
+  "url": "https://ion.xlash.com/t/t?a=1864139588&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=1864139584",
+  "site": "https://xlash.com/no-no",
+  "cat": "Health & Beauty",
+  "net": "adtraction"
+ },
+ {
+  "name": "Xplora",
+  "url": "https://to.xplora.no/t/t?a=1199036773&as=2074526845&t=2&tk=1",
+  "logo": "https://adtraction.com/image.htm?imgId=1199036768",
+  "site": "https://xplora.no",
+  "cat": "Electronics",
+  "net": "adtraction"
+ }
+]
