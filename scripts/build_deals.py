@@ -34,6 +34,8 @@ def main():
     try:
         aw = get(AWIN_JSON)
         for d in aw.get("deals", []):
+            if re.search(r"no_selection|placeholder|noimage", d.get("image", ""), re.I):
+                continue
             deals.append({"brand": d["brand"], "title": d["headline"], "text": d["price_text"],
                           "image": d["media_url"], "url": d["link"], "type": "produkt",
                           "date": aw.get("generated", "")})
