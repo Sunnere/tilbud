@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T06:28:37Z",
+ "updated": "2026-11-04T16:21:29Z",
  "deals": [
   {
    "brand": "Acer",
@@ -18,6 +18,15 @@
    "url": "https://www.awin1.com/pclick.php?p=40642947539&a=3126086&m=25181",
    "type": "produkt",
    "date": "2026-10-31T11:21:19Z"
+  },
+  {
+   "brand": "Dr. Stine",
+   "title": "men bare i to dager ⏰",
+   "text": "",
+   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,w_1080,h_1080/e_blur:2000/e_brightness:-55/l_fg05d0gpjqrqbow5g5c5/c_fit,w_1000,h_660/r_28/e_shadow:60,x_0,y_12/fl_layer_apply,g_south,y_120/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:DR.%20STINE/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:25%20%2525%20p%C3%A5%20alt%20i%20VIP-salget/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20Se%20tilbudet%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/fg05d0gpjqrqbow5g5c5.jpg",
+   "url": "https://www.awin1.com/cread.php?awinmid=125850&awinaffid=3126086",
+   "type": "kampanje",
+   "date": "2026-11-04T10:31:01.209Z"
   },
   {
    "brand": "Stille",
@@ -88,15 +97,6 @@
    "text": "",
    "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,h_1080,w_1080/e_gradient_fade,y_0.42,b_rgb:0B1A30/e_gradient_fade,y_-0.22,b_rgb:0B1A30/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:KOUTURE/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:25%2525%20p%C3%A5%20alle%20jakker/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_60/f_jpg/q_auto/qtcjwiktjvocyyvyopfr.jpg",
    "url": "https://dot.kouture.no/t/t?a=1874789238&as=2074526845&t=2&tk=1",
-   "type": "kampanje",
-   "date": "2026-10-30T18:32:22.640Z"
-  },
-  {
-   "brand": "Dr. Stine",
-   "title": "Lukket salg på utvalgte produkter",
-   "text": "",
-   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fit,w_960,h_560/r_28/c_lpad,w_1080,h_920,g_south,b_rgb:0B1A30/c_lpad,w_1080,h_1080,g_north,b_rgb:0B1A30/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:DR.%20STINE/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:Lukket%20salg%20n%C3%A5/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20Se%20tilbudet%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_60/f_jpg/q_auto/ri9rupgqymw2txvqj7co.jpg",
-   "url": "https://www.awin1.com/cread.php?awinmid=125850&awinaffid=3126086",
    "type": "kampanje",
    "date": "2026-10-30T18:32:22.640Z"
   }
