@@ -77,6 +77,22 @@ def main():
     else:
         print("ZERNIO_KEY mangler – hopper over kavalkader")
 
+    # 3) Manuelle overstyringer (bedre bilde/tekst per merke), se overrides.json
+    try:
+        ov = json.load(open(os.path.join(ROOT, "overrides.json")))
+    except Exception:
+        ov = {}
+    for d in deals:
+        o = ov.get(d["brand"])
+        if not o:
+            continue
+        until = o.get("until")
+        if until and datetime.datetime.fromisoformat(until.replace("Z", "+00:00")) < now:
+            continue
+        for f in ("image", "title", "text", "url"):
+            if o.get(f):
+                d[f] = o[f]
+
     out = {"updated": now.strftime("%Y-%m-%dT%H:%M:%SZ"), "deals": deals}
     json.dump(out, open(os.path.join(ROOT, "deals.json"), "w"), ensure_ascii=False, indent=1)
     print(f"{len(deals)} tilbud skrevet")
