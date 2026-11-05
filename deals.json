@@ -1,24 +1,6 @@
 {
- "updated": "2026-11-05T21:05:18Z",
+ "updated": "2026-11-05T21:10:33Z",
  "deals": [
-  {
-   "brand": "Acer",
-   "title": "-42 % på Business-ryggsekk 15.6''",
-   "text": "Nå 549 kr · før 949 kr",
-   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_pad,w_760,h_600,b_white/r_32/c_lpad,w_1080,h_900,g_south,b_rgb:0B1A30/c_lpad,w_1080,h_1080,g_north,b_rgb:0B1A30/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:ACER/fl_layer_apply,g_north_west,x_64,y_56/co_white,c_fit,w_950,l_text:Montserrat_72_bold_line_spacing_-12:-42%20%2525%20p%C3%A5%20Business-ryggsekk%2015.6%27%27/fl_layer_apply,g_north_west,x_60,y_112/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_40_bold:%20%20%20%20N%C3%A5%20549%20kr%20%C2%B7%20f%C3%B8r%20949%20kr%20%20%20%20/fl_layer_apply,g_south,y_70/f_jpg/q_auto/ha9lpsi1ioaksxmvwjmi.jpg",
-   "url": "https://www.awin1.com/pclick.php?p=45948361350&a=3126086&m=24784",
-   "type": "produkt",
-   "date": "2026-10-31T11:21:19Z"
-  },
-  {
-   "brand": "Dyson",
-   "title": "-20 % på Luftrensende vifte Dyson",
-   "text": "Nå 9 439 kr · før 11 799 kr",
-   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_pad,w_760,h_600,b_white/r_32/c_lpad,w_1080,h_900,g_south,b_rgb:0B1A30/c_lpad,w_1080,h_1080,g_north,b_rgb:0B1A30/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:DYSON/fl_layer_apply,g_north_west,x_64,y_56/co_white,c_fit,w_950,l_text:Montserrat_72_bold_line_spacing_-12:-20%20%2525%20p%C3%A5%20Luftrensende%20vifte%20Dyson/fl_layer_apply,g_north_west,x_60,y_112/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_40_bold:%20%20%20%20N%C3%A5%209%20439%20kr%20%C2%B7%20f%C3%B8r%2011%20799%20kr%20%20%20%20/fl_layer_apply,g_south,y_70/f_jpg/q_auto/rvx19qjfxthrbhx2sh0e.jpg",
-   "url": "https://www.awin1.com/pclick.php?p=40642947539&a=3126086&m=25181",
-   "type": "produkt",
-   "date": "2026-10-31T11:21:19Z"
-  },
   {
    "brand": "Sofas and More",
    "title": "Opptil 65% rabatt i Black Month",
@@ -47,15 +29,6 @@
    "date": "2026-11-03T18:30:37.270Z"
   },
   {
-   "brand": "SharkNinja",
-   "title": "Spar opptil 38% på Roomba robotstøvsugere",
-   "text": "",
-   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,w_1080,h_1080/e_blur:2000/e_brightness:-55/l_m5fw8fdvoi8qnbailrz5/c_fit,w_1000,h_660/r_28/e_shadow:60,x_0,y_12/fl_layer_apply,g_south,y_120/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:SHARKNINJA/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:Spar%2038%2525%20p%C3%A5%20Roomba/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20Se%20tilbudet%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/m5fw8fdvoi8qnbailrz5.jpg",
-   "url": "https://www.awin1.com/cread.php?awinmid=81671&awinaffid=3126086",
-   "type": "kampanje",
-   "date": "2026-11-03T10:31:04.613Z"
-  },
-  {
    "brand": "Småungene",
    "title": "Opptil 70% rabatt på hele nettbutikken i Black November",
    "text": "",
@@ -65,22 +38,22 @@
    "date": "2026-11-02T18:31:58.116Z"
   },
   {
-   "brand": "Kost1",
-   "title": "opptil 77% rabatt på Halloween-salget",
-   "text": "",
-   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fit,w_960,h_560/r_28/c_lpad,w_1080,h_920,g_south,b_rgb:0B1A30/c_lpad,w_1080,h_1080,g_north,b_rgb:0B1A30/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:KOST1/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:Opptil%2077%2525%20rabatt/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_60/f_jpg/q_auto/z42ofvxfflh8tzwgvr5c.jpg",
-   "url": "https://go.adt284.net/t/t?a=2085431311&as=2074526845&t=2&tk=1",
-   "type": "kampanje",
-   "date": "2026-11-01T10:30:30.913Z"
+   "brand": "Acer",
+   "title": "-42 % på Business-ryggsekk 15.6''",
+   "text": "Nå 549 kr · før 949 kr",
+   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_pad,w_760,h_600,b_white/r_32/c_lpad,w_1080,h_900,g_south,b_rgb:0B1A30/c_lpad,w_1080,h_1080,g_north,b_rgb:0B1A30/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:ACER/fl_layer_apply,g_north_west,x_64,y_56/co_white,c_fit,w_950,l_text:Montserrat_72_bold_line_spacing_-12:-42%20%2525%20p%C3%A5%20Business-ryggsekk%2015.6%27%27/fl_layer_apply,g_north_west,x_60,y_112/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_40_bold:%20%20%20%20N%C3%A5%20549%20kr%20%C2%B7%20f%C3%B8r%20949%20kr%20%20%20%20/fl_layer_apply,g_south,y_70/f_jpg/q_auto/ha9lpsi1ioaksxmvwjmi.jpg",
+   "url": "https://www.awin1.com/pclick.php?p=45948361350&a=3126086&m=24784",
+   "type": "produkt",
+   "date": "2026-10-31T11:21:19Z"
   },
   {
-   "brand": "Fabel",
-   "title": "60% rabatt i 1 måned, siste sjanse søndag 1. november",
-   "text": "",
-   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fit,w_960,h_560/r_28/c_lpad,w_1080,h_920,g_south,b_rgb:0B1A30/c_lpad,w_1080,h_1080,g_north,b_rgb:0B1A30/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:FABEL/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:60%20%2525%20rabatt%20i%201%20m%C3%A5ned/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_60/f_jpg/q_auto/pjdqrgkdmila11215ixp.jpg",
-   "url": "https://in.fabel.no/t/t?a=1550298256&as=2074526845&t=2&tk=1",
-   "type": "kampanje",
-   "date": "2026-11-01T10:30:30.913Z"
+   "brand": "Dyson",
+   "title": "-20 % på Luftrensende vifte Dyson",
+   "text": "Nå 9 439 kr · før 11 799 kr",
+   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_pad,w_760,h_600,b_white/r_32/c_lpad,w_1080,h_900,g_south,b_rgb:0B1A30/c_lpad,w_1080,h_1080,g_north,b_rgb:0B1A30/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:DYSON/fl_layer_apply,g_north_west,x_64,y_56/co_white,c_fit,w_950,l_text:Montserrat_72_bold_line_spacing_-12:-20%20%2525%20p%C3%A5%20Luftrensende%20vifte%20Dyson/fl_layer_apply,g_north_west,x_60,y_112/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_40_bold:%20%20%20%20N%C3%A5%209%20439%20kr%20%C2%B7%20f%C3%B8r%2011%20799%20kr%20%20%20%20/fl_layer_apply,g_south,y_70/f_jpg/q_auto/rvx19qjfxthrbhx2sh0e.jpg",
+   "url": "https://www.awin1.com/pclick.php?p=40642947539&a=3126086&m=25181",
+   "type": "produkt",
+   "date": "2026-10-31T11:21:19Z"
   }
  ]
 }
