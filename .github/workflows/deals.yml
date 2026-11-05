@@ -5,6 +5,7 @@ on:
   workflow_dispatch: {}
 permissions:
   contents: write
+  pages: write
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -24,3 +25,7 @@ jobs:
           git add deals.json
           git diff --cached --quiet || git commit -m "Oppdater tilbud $(date -u +%F_%H%M)"
           git push
+      - name: Publiser GitHub Pages (bot-commits starter ikke Pages av seg selv)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X POST "repos/${{ github.repository }}/pages/builds" || echo "Pages-build kunne ikke startes"

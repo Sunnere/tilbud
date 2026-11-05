@@ -5,7 +5,23 @@ import json, os, re, urllib.request, datetime
 ROOT = os.path.join(os.path.dirname(__file__), "..")
 KEY = os.environ.get("ZERNIO_KEY", "").strip()
 AWIN_JSON = "https://raw.githubusercontent.com/Sunnere/bonusvarsel/local-stable-baseline/data/awin-deals.json"
-MAX_AGE_DAYS = 4
+MAX_AGE_DAYS = 3
+MND = {"januar":1,"februar":2,"mars":3,"april":4,"mai":5,"juni":6,"juli":7,"august":8,
+       "september":9,"oktober":10,"november":11,"desember":12}
+
+def utlopt(text, now):
+    """True hvis teksten nevner en dato som er passert, eller Halloween etter 31.10."""
+    t = text.lower()
+    if "halloween" in t and (now.month, now.day) > (10, 31):
+        return True
+    for d, m in re.findall(r"(\d{1,2})\.\s*(" + "|".join(MND) + r")", t):
+        try:
+            dato = datetime.datetime(now.year, MND[m], int(d), 23, 59, tzinfo=datetime.timezone.utc)
+        except ValueError:
+            continue
+        if dato < now and (now - dato).days < 200:
+            return True
+    return False
 
 def norm(s):
     s = s.lower().replace("å", "a").replace("ø", "o").replace("æ", "ae").replace("ö", "o").replace("é", "e")
@@ -70,6 +86,8 @@ def main():
                     continue
                 seen.add(key)
                 offer = re.split(r"\s[–-]\s", l, maxsplit=1)[-1].strip()
+                if utlopt(offer, now):
+                    continue
                 deals.append({"brand": b["name"], "title": offer[:140], "text": "",
                               "image": imgs[i] if i < len(imgs) else "", "url": b["url"],
                               "type": "kampanje", "date": p["createdAt"]})
@@ -89,10 +107,15 @@ def main():
         until = o.get("until")
         if until and datetime.datetime.fromisoformat(until.replace("Z", "+00:00")) < now:
             continue
+        if any(w.lower() in (d["title"] + " " + d["text"]).lower() for w in o.get("skip_if_contains", [])):
+            d["skip"] = True
+            continue
         for f in ("image", "title", "text", "url"):
             if o.get(f):
                 d[f] = o[f]
 
+    deals = [d for d in deals if not d.get("skip")]
+    deals.sort(key=lambda d: d.get("date", ""), reverse=True)  # nyeste først
     out = {"updated": now.strftime("%Y-%m-%dT%H:%M:%SZ"), "deals": deals}
     json.dump(out, open(os.path.join(ROOT, "deals.json"), "w"), ensure_ascii=False, indent=1)
     print(f"{len(deals)} tilbud skrevet")
