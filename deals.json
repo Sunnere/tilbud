@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T06:51:25Z",
+ "updated": "2026-11-05T16:29:34Z",
  "deals": [
   {
    "brand": "Acer",
@@ -72,24 +72,6 @@
    "url": "https://in.fabel.no/t/t?a=1550298256&as=2074526845&t=2&tk=1",
    "type": "kampanje",
    "date": "2026-11-01T10:30:30.913Z"
-  },
-  {
-   "brand": "Murlong Cres",
-   "title": "25% rabatt på Elsa Bustier i alle farger (ekstra 25% på de som allerede er på salg) frem til onsdag 28. oktober kl. 20.00 med kode ELSA25-ZX",
-   "text": "",
-   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fit,w_960,h_560/r_28/c_lpad,w_1080,h_920,g_south,b_rgb:0B1A30/c_lpad,w_1080,h_1080,g_north,b_rgb:0B1A30/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:MURLONG%20CRES/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:25%20%2525%20p%C3%A5%20Elsa%20Bustier/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_60/f_jpg/q_auto/xokbcqnbmtvu3trrf3qv.jpg",
-   "url": "https://do.murlongcres.com/t/t?a=2030810009&as=2074526845&t=2&tk=1",
-   "type": "kampanje",
-   "date": "2026-10-31T10:03:01.713Z"
-  },
-  {
-   "brand": "Acer",
-   "title": "Black Friday opptil 50% rabatt på utvalgte produkter, 3-26 november 2026",
-   "text": "",
-   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,h_1080,w_1080/e_gradient_fade,y_0.42,b_rgb:0B1A30/e_gradient_fade,y_-0.22,b_rgb:0B1A30/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:ACER/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:Opptil%2050%2525%20rabatt/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_60/f_jpg/q_auto/jyayqucxphgdhcfyviaf.jpg",
-   "url": "https://www.awin1.com/cread.php?awinmid=24784&awinaffid=3126086",
-   "type": "kampanje",
-   "date": "2026-10-31T10:03:01.713Z"
   }
  ]
 }
