@@ -1,6 +1,15 @@
 {
- "updated": "2026-11-08T16:42:06Z",
+ "updated": "2026-11-08T22:09:25Z",
  "deals": [
+  {
+   "brand": "Stille",
+   "title": "50% rabatt på alt sengetøy",
+   "text": "",
+   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,w_1080,h_1080/e_blur:2000/e_brightness:-55/l_v9zi47ihegowg4bbr8w2/c_fit,w_1000,h_660/r_28/e_shadow:60,x_0,y_12/fl_layer_apply,g_south,y_120/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:SCANDIC/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:Work%20Lounge%20for%2099%20kr/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20Se%20tilbudet%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/v9zi47ihegowg4bbr8w2.jpg",
+   "url": "https://ion.stille.no/t/t?a=2031062571&as=2074526845&t=2&tk=1",
+   "type": "kampanje",
+   "date": "2026-11-08T18:30:31.736Z"
+  },
   {
    "brand": "Acer",
    "title": "-37 % på Nitro spillkontroller",
@@ -27,15 +36,6 @@
    "url": "https://www.awin1.com/pclick.php?p=46408071669&a=3126086&m=25181",
    "type": "produkt",
    "date": "2026-11-07T12:00:03Z"
-  },
-  {
-   "brand": "Stille",
-   "title": "i hele Black Friday-måneden?",
-   "text": "",
-   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,w_1080,h_1080/e_blur:2000/e_brightness:-55/l_p9rd6259tyaplanti8cr/c_fit,w_1000,h_660/r_28/e_shadow:60,x_0,y_12/fl_layer_apply,g_south,y_120/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:STILLE.NO/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:50%2525%20p%C3%A5%20alt%20senget%C3%B8y/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/p9rd6259tyaplanti8cr.jpg",
-   "url": "https://ion.stille.no/t/t?a=2031062571&as=2074526845&t=2&tk=1",
-   "type": "kampanje",
-   "date": "2026-11-07T10:30:24.722Z"
   },
   {
    "brand": "Kinogavekort.no",
