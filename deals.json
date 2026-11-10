@@ -1,6 +1,33 @@
 {
- "updated": "2026-11-10T04:08:25Z",
+ "updated": "2026-11-10T12:41:38Z",
  "deals": [
+  {
+   "brand": "Stille",
+   "title": "50% rabatt på alt i Black Friday-måneden",
+   "text": "",
+   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,h_1080,w_1080/e_gradient_fade,y_0.42,b_rgb:0B1A30/e_gradient_fade,y_-0.22,b_rgb:0B1A30/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:FOTOKNUDSEN/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:30%20%2525%20p%C3%A5%20fotob%C3%B8ker/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20Se%20tilbudet%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/ksdctvh4unnnsszsbpfm.jpg",
+   "url": "https://ion.stille.no/t/t?a=2031062571&as=2074526845&t=2&tk=1",
+   "type": "kampanje",
+   "date": "2026-11-10T11:18:50.031Z"
+  },
+  {
+   "brand": "CURLI",
+   "title": "2 for 1 på all hårpleie, opptil 50% rabatt, og gratis gave til 390kr med kode OVERRASKELSE for CURLI CLUB-medlemmer",
+   "text": "",
+   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,w_1080,h_1080/e_blur:2000/e_brightness:-55/l_vqlijuzldy3agp2b5iv7/c_fit,w_1000,h_660/r_28/e_shadow:60,x_0,y_12/fl_layer_apply,g_south,y_120/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:STILLE.NO/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:50%2525%20p%C3%A5%20senget%C3%B8y/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/vqlijuzldy3agp2b5iv7.jpg",
+   "url": "https://in.curli.no/t/t?a=2031658456&as=2074526845&t=2&tk=1",
+   "type": "kampanje",
+   "date": "2026-11-10T11:18:50.031Z"
+  },
+  {
+   "brand": "Dyson",
+   "title": "Spar opptil 6 400 kr på Black Friday-tilbud",
+   "text": "",
+   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,w_1080,h_1080/e_blur:2000/e_brightness:-55/l_xno9sfxrrargy96o37gp/c_fit,w_1000,h_660/r_28/e_shadow:60,x_0,y_12/fl_layer_apply,g_south,y_120/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:CURLI/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:2%20for%201%20p%C3%A5%20h%C3%A5rpleie/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/xno9sfxrrargy96o37gp.jpg",
+   "url": "https://www.awin1.com/cread.php?awinmid=25181&awinaffid=3126086",
+   "type": "kampanje",
+   "date": "2026-11-10T11:18:50.031Z"
+  },
   {
    "brand": "SharkNinja",
    "title": "opptil 40% rabatt i Black Month-kampanjen",
@@ -74,15 +101,6 @@
    "date": "2026-11-09T10:34:04.236Z"
   },
   {
-   "brand": "Stille",
-   "title": "50% rabatt på alt sengetøy",
-   "text": "",
-   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,w_1080,h_1080/e_blur:2000/e_brightness:-55/l_v9zi47ihegowg4bbr8w2/c_fit,w_1000,h_660/r_28/e_shadow:60,x_0,y_12/fl_layer_apply,g_south,y_120/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:SCANDIC/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:Work%20Lounge%20for%2099%20kr/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20Se%20tilbudet%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/v9zi47ihegowg4bbr8w2.jpg",
-   "url": "https://ion.stille.no/t/t?a=2031062571&as=2074526845&t=2&tk=1",
-   "type": "kampanje",
-   "date": "2026-11-08T18:30:31.736Z"
-  },
-  {
    "brand": "Acer",
    "title": "-37 % på Nitro spillkontroller",
    "text": "Nå 690 kr · før 1 090 kr",
@@ -117,15 +135,6 @@
    "url": "https://id.kinogavekort.no/t/t?a=1517232100&as=2074526845&t=2&tk=1",
    "type": "kampanje",
    "date": "2026-11-06T19:54:24.340Z"
-  },
-  {
-   "brand": "Hulténs",
-   "title": "opptil 50% på utvalgte lagervarer, 5-25% på nettbutikken, 20% på Brafab, By-Boo, Artwood, Riviera Maison og Audo Copenhagen, samt prisgarant",
-   "text": "",
-   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,h_1080,w_1080/e_gradient_fade,y_0.42,b_rgb:0B1A30/e_gradient_fade,y_-0.22,b_rgb:0B1A30/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:HULT%C3%89NS/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:Opptil%2050%2525%20rabatt/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/hdktiteknemlpkd20e7x.jpg",
-   "url": "https://ion.hultens.no/t/t?a=1839146301&as=2074526845&t=2&tk=1",
-   "type": "kampanje",
-   "date": "2026-11-06T10:33:56.053Z"
   }
  ]
 }
