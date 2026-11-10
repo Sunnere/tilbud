@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T12:41:38Z",
+ "updated": "2026-11-10T20:50:37Z",
  "deals": [
   {
    "brand": "Stille",
@@ -126,15 +126,6 @@
    "url": "https://www.awin1.com/pclick.php?p=46408071669&a=3126086&m=25181",
    "type": "produkt",
    "date": "2026-11-07T12:00:03Z"
-  },
-  {
-   "brand": "Kinogavekort.no",
-   "title": "årets farsdagsgave: en kinotur dere gjør sammen",
-   "text": "",
-   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,w_1080,h_1080/e_blur:2000/e_brightness:-55/l_stille_sengesett_50/c_crop,x_100,y_200,w_1020,h_530/c_fit,w_1000,h_660/r_28/e_shadow:60,x_0,y_12/fl_layer_apply,g_south,y_120/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:STILLE/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:50%20%2525%20p%C3%A5%20alt/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/stille_sengesett_50.jpg",
-   "url": "https://id.kinogavekort.no/t/t?a=1517232100&as=2074526845&t=2&tk=1",
-   "type": "kampanje",
-   "date": "2026-11-06T19:54:24.340Z"
   }
  ]
 }
