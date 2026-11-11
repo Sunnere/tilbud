@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-11T09:28:26Z",
+ "updated": "2026-11-11T17:54:33Z",
  "deals": [
+  {
+   "brand": "SharkNinja",
+   "title": "Spar opptil 38 %, f.eks. Shark PowerDetect fra 5499 til 3399 kr og Ninja CRISPi PRO fra 2999 til 2299 kr",
+   "text": "",
+   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,h_1080,w_1080/e_gradient_fade,y_0.42,b_rgb:0B1A30/e_gradient_fade,y_-0.22,b_rgb:0B1A30/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:SHARKNINJA/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:Spar%20opptil%2038%2525/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20Se%20tilbudet%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/josihxbvzu2ajuuzzehv.jpg",
+   "url": "https://www.awin1.com/cread.php?awinmid=81671&awinaffid=3126086",
+   "type": "kampanje",
+   "date": "2026-11-11T11:20:20.135Z"
+  },
+  {
+   "brand": "iRobot",
+   "title": "Fra 8.999 til 5.599 kr, kun til 12. november",
+   "text": "",
+   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,w_1080,h_1080/e_blur:2000/e_brightness:-55/l_axassfs3odabubpyyykw/c_fit,w_1000,h_660/r_28/e_shadow:60,x_0,y_12/fl_layer_apply,g_south,y_120/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:IROBOT%20NO/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:5.599%20kr%20p%C3%A5%20Roomba/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20Se%20tilbudet%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/axassfs3odabubpyyykw.jpg",
+   "url": "https://on.irobot.no/t/t?a=2055097048&as=2074526845&t=2&tk=1",
+   "type": "kampanje",
+   "date": "2026-11-11T11:20:20.135Z"
+  },
+  {
+   "brand": "Björn Borg",
+   "title": "22 % rabatt på alle styles i 24 timer (gjelder ikke allerede nedsatte varer)",
+   "text": "",
+   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,h_1080,w_1080/e_gradient_fade,y_0.42,b_rgb:0B1A30/e_gradient_fade,y_-0.22,b_rgb:0B1A30/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:BJ%C3%96RN%20BORG/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:22%20%2525%20p%C3%A5%20alt%20i%20dag/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/bslwjdavnedgcu8wocgx.jpg",
+   "url": "https://to.bjornborg.com/t/t?a=1887444812&as=2074526845&t=2&tk=1",
+   "type": "kampanje",
+   "date": "2026-11-11T11:20:20.135Z"
+  },
+  {
+   "brand": "Safira",
+   "title": "11 % + 11 % rabatt på alt med kode SINGLESDAY",
+   "text": "",
+   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,h_1080,w_1080/e_gradient_fade,y_0.42,b_rgb:0B1A30/e_gradient_fade,y_-0.22,b_rgb:0B1A30/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:SAFIRA/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:11%2525%2B11%2525%20p%C3%A5%20alt/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/ce3b0s8dd1ajq5eh5qva.jpg",
+   "url": "https://go.safira.com/t/t?a=1922334167&as=2074526845&t=2&tk=1",
+   "type": "kampanje",
+   "date": "2026-11-11T11:20:20.135Z"
+  },
   {
    "brand": "Stille",
    "title": "50% rabatt på alt i Black Friday-måneden",
@@ -29,19 +65,10 @@
    "date": "2026-11-10T11:18:50.031Z"
   },
   {
-   "brand": "SharkNinja",
-   "title": "opptil 40% rabatt i Black Month-kampanjen",
-   "text": "",
-   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,h_1080,w_1080/e_gradient_fade,y_0.42,b_rgb:0B1A30/e_gradient_fade,y_-0.22,b_rgb:0B1A30/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:SHARKNINJA/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:Opptil%2040%2525%20rabatt/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20Se%20tilbudet%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/olgzjp2ictg4izoptvr1.jpg",
-   "url": "https://www.awin1.com/cread.php?awinmid=81671&awinaffid=3126086",
-   "type": "kampanje",
-   "date": "2026-11-09T18:35:21.667Z"
-  },
-  {
    "brand": "Murlong Cres",
    "title": "gratis frakt på forhåndsbestillinger med kode FORHÅND (cashback hos oss)",
    "text": "",
-   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,h_1080,w_1080/e_gradient_fade,y_0.42,b_rgb:0B1A30/e_gradient_fade,y_-0.22,b_rgb:0B1A30/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:MURLONG%20CRES/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:Gratis%20frakt%20p%C3%A5%20pre-order/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/xmtcdwzgzeehk2krrmo6.jpg",
+   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,h_1080,w_1080/e_gradient_fade,y_0.42,b_rgb:0B1A30/e_gradient_fade,y_-0.22,b_rgb:0B1A30/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:SHARKNINJA/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:Opptil%2040%2525%20rabatt/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20Se%20tilbudet%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/olgzjp2ictg4izoptvr1.jpg",
    "url": "https://do.murlongcres.com/t/t?a=2030810009&as=2074526845&t=2&tk=1",
    "type": "kampanje",
    "date": "2026-11-09T18:35:21.667Z"
@@ -50,7 +77,7 @@
    "brand": "Småungene",
    "title": "opptil 40% på Need it ullundertøy (cashback hos oss)",
    "text": "",
-   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,h_1080,w_1080/e_gradient_fade,y_0.42,b_rgb:0B1A30/e_gradient_fade,y_-0.22,b_rgb:0B1A30/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:SM%C3%85UNGENE/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:Opptil%2040%2525%20p%C3%A5%20ull/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/qtcaoywo9ij6hisgiafk.jpg",
+   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,h_1080,w_1080/e_gradient_fade,y_0.42,b_rgb:0B1A30/e_gradient_fade,y_-0.22,b_rgb:0B1A30/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:MURLONG%20CRES/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:Gratis%20frakt%20p%C3%A5%20pre-order/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/xmtcdwzgzeehk2krrmo6.jpg",
    "url": "https://to.smaaungene.no/t/t?a=2057057213&as=2074526845&t=2&tk=1",
    "type": "kampanje",
    "date": "2026-11-09T18:35:21.667Z"
