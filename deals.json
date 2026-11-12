@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-11T17:54:33Z",
+ "updated": "2026-11-12T00:45:55Z",
  "deals": [
+  {
+   "brand": "Vinlagringskompaniet",
+   "title": "Opptil 50% rabatt på utvalgte vinskap, ølskap, tilbehør og mer - Black November-kampanje til og med 30. november",
+   "text": "",
+   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,h_1080,w_1080/e_gradient_fade,y_0.42,b_rgb:0B1A30/e_gradient_fade,y_-0.22,b_rgb:0B1A30/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:VINLAGRINGSKOMPANIET/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:Opptil%2050%2525%20p%C3%A5%20vinskap/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/b6amlgdoinqdj0tza16h.jpg",
+   "url": "https://at.vinlagringskompaniet.no/t/t?a=1954033301&as=2074526845&t=2&tk=1",
+   "type": "kampanje",
+   "date": "2026-11-11T18:32:07.077Z"
+  },
+  {
+   "brand": "Kost1",
+   "title": "Opptil 69 % rabatt under Singles Week",
+   "text": "",
+   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,w_1080,h_1080/e_blur:2000/e_brightness:-55/l_zulek6jgxtdued8wtsap/c_fit,w_1000,h_660/r_28/e_shadow:60,x_0,y_12/fl_layer_apply,g_south,y_120/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:KOST1/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:Opptil%2069%20%2525%20rabatt/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/zulek6jgxtdued8wtsap.jpg",
+   "url": "https://go.adt284.net/t/t?a=2085431311&as=2074526845&t=2&tk=1",
+   "type": "kampanje",
+   "date": "2026-11-11T18:32:07.077Z"
+  },
   {
    "brand": "SharkNinja",
    "title": "Spar opptil 38 %, f.eks. Shark PowerDetect fra 5499 til 3399 kr og Ninja CRISPi PRO fra 2999 til 2299 kr",
