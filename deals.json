@@ -1,6 +1,33 @@
 {
- "updated": "2026-11-13T09:35:12Z",
+ "updated": "2026-11-13T17:45:43Z",
  "deals": [
+  {
+   "brand": "Kost1",
+   "title": "Opptil 69% på nyheter og bestselgere, Singles Week",
+   "text": "",
+   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,w_1080,h_1080/e_blur:2000/e_brightness:-55/l_knh3camutqt5acefphow/c_fit,w_1000,h_660/r_28/e_shadow:60,x_0,y_12/fl_layer_apply,g_south,y_120/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:KOST1/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:Opptil%2069%2525%20p%C3%A5%20kosttilskudd/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/knh3camutqt5acefphow.jpg",
+   "url": "https://go.adt284.net/t/t?a=2085431311&as=2074526845&t=2&tk=1",
+   "type": "kampanje",
+   "date": "2026-11-13T11:17:32.615Z"
+  },
+  {
+   "brand": "iRobot",
+   "title": "Black Week-tilbud på nye Roomba Combo-robotstøvsugere",
+   "text": "",
+   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,h_1080,w_1080/e_gradient_fade,y_0.42,b_rgb:0B1A30/e_gradient_fade,y_-0.22,b_rgb:0B1A30/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:IROBOT%20NO/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:Black%20Week%20p%C3%A5%20Roomba/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/u4s6xzg1lrzlo2ktpwnt.jpg",
+   "url": "https://on.irobot.no/t/t?a=2055097048&as=2074526845&t=2&tk=1",
+   "type": "kampanje",
+   "date": "2026-11-13T11:17:32.615Z"
+  },
+  {
+   "brand": "CURLI",
+   "title": "Opptil 50% rabatt på hele nettbutikken i november (40% ved 1 produkt, 45% ved 2, 50% ved 3+), gratis frakt, gratis børste ved kjøp over 3100",
+   "text": "",
+   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,w_1080,h_1080/e_blur:2000/e_brightness:-55/l_l8vyx3tvdyevd5wie3jn/c_fit,w_1000,h_660/r_28/e_shadow:60,x_0,y_12/fl_layer_apply,g_south,y_120/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:CURLI/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:Opptil%2050%2525%20p%C3%A5%20alt%20hos%20CURLI/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/l8vyx3tvdyevd5wie3jn.jpg",
+   "url": "https://in.curli.no/t/t?a=2031658456&as=2074526845&t=2&tk=1",
+   "type": "kampanje",
+   "date": "2026-11-13T11:17:32.615Z"
+  },
   {
    "brand": "Dr. Stine",
    "title": "20% rabatt på Black Week-salget",
@@ -56,15 +83,6 @@
    "date": "2026-11-11T18:32:07.077Z"
   },
   {
-   "brand": "Kost1",
-   "title": "Opptil 69 % rabatt under Singles Week",
-   "text": "",
-   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,w_1080,h_1080/e_blur:2000/e_brightness:-55/l_zulek6jgxtdued8wtsap/c_fit,w_1000,h_660/r_28/e_shadow:60,x_0,y_12/fl_layer_apply,g_south,y_120/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:KOST1/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:Opptil%2069%20%2525%20rabatt/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/zulek6jgxtdued8wtsap.jpg",
-   "url": "https://go.adt284.net/t/t?a=2085431311&as=2074526845&t=2&tk=1",
-   "type": "kampanje",
-   "date": "2026-11-11T18:32:07.077Z"
-  },
-  {
    "brand": "SharkNinja",
    "title": "Spar opptil 38 %, f.eks. Shark PowerDetect fra 5499 til 3399 kr og Ninja CRISPi PRO fra 2999 til 2299 kr",
    "text": "",
@@ -92,19 +110,10 @@
    "date": "2026-11-11T11:20:20.135Z"
   },
   {
-   "brand": "CURLI",
-   "title": "2 for 1 på all hårpleie, opptil 50% rabatt, og gratis gave til 390kr med kode OVERRASKELSE for CURLI CLUB-medlemmer",
-   "text": "",
-   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,h_1080,w_1080/e_gradient_fade,y_0.42,b_rgb:0B1A30/e_gradient_fade,y_-0.22,b_rgb:0B1A30/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:FOTOKNUDSEN/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:30%20%2525%20p%C3%A5%20fotob%C3%B8ker/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20Se%20tilbudet%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/ksdctvh4unnnsszsbpfm.jpg",
-   "url": "https://in.curli.no/t/t?a=2031658456&as=2074526845&t=2&tk=1",
-   "type": "kampanje",
-   "date": "2026-11-10T11:18:50.031Z"
-  },
-  {
    "brand": "Dyson",
    "title": "Spar opptil 6 400 kr på Black Friday-tilbud",
    "text": "",
-   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,w_1080,h_1080/e_blur:2000/e_brightness:-55/l_vqlijuzldy3agp2b5iv7/c_fit,w_1000,h_660/r_28/e_shadow:60,x_0,y_12/fl_layer_apply,g_south,y_120/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:STILLE.NO/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:50%2525%20p%C3%A5%20senget%C3%B8y/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/vqlijuzldy3agp2b5iv7.jpg",
+   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,h_1080,w_1080/e_gradient_fade,y_0.42,b_rgb:0B1A30/e_gradient_fade,y_-0.22,b_rgb:0B1A30/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:FOTOKNUDSEN/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:30%20%2525%20p%C3%A5%20fotob%C3%B8ker/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20Se%20tilbudet%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/ksdctvh4unnnsszsbpfm.jpg",
    "url": "https://www.awin1.com/cread.php?awinmid=25181&awinaffid=3126086",
    "type": "kampanje",
    "date": "2026-11-10T11:18:50.031Z"
@@ -126,51 +135,6 @@
    "url": "https://to.smaaungene.no/t/t?a=2057057213&as=2074526845&t=2&tk=1",
    "type": "kampanje",
    "date": "2026-11-09T18:35:21.667Z"
-  },
-  {
-   "brand": "Bålstedet",
-   "title": "Solo Stove Bonfire 2.0 fra 2.990,- til 1.990,- og Yukon 2.0 fra 5.990,- til 3.990,-",
-   "text": "",
-   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,h_1080,w_1080/e_gradient_fade,y_0.42,b_rgb:0B1A30/e_gradient_fade,y_-0.22,b_rgb:0B1A30/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:B%C3%85LSTEDET%20NO/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:B%C3%A5lfat%20fra%201.990%252C-/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/de0gb932pi10vcydqtfz.jpg",
-   "url": "https://in.baalstedet.no/t/t?a=2108250036&as=2074526845&t=2&tk=1",
-   "type": "kampanje",
-   "date": "2026-11-09T11:14:30.407Z"
-  },
-  {
-   "brand": "Asuro",
-   "title": "Nedsatt fra 9.990,- til 7.990,- i Black Month",
-   "text": "",
-   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,h_1080,w_1080/e_gradient_fade,y_0.42,b_rgb:0B1A30/e_gradient_fade,y_-0.22,b_rgb:0B1A30/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:ASURO%20NO/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:Beste%20pris%20p%C3%A5%20Double%20Pro/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/rvydcb7ujhcdncxqgkvz.jpg",
-   "url": "https://dot.asuro.no/t/t?a=2053916424&as=2074526845&t=2&tk=1",
-   "type": "kampanje",
-   "date": "2026-11-09T11:14:30.407Z"
-  },
-  {
-   "brand": "Xlash",
-   "title": "30% rabatt på alt + ekstra 11% med kode SINGLE",
-   "text": "",
-   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,h_1080,w_1080/e_gradient_fade,y_0.42,b_rgb:0B1A30/e_gradient_fade,y_-0.22,b_rgb:0B1A30/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:XLASH%20NO/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:41%20%2525%20p%C3%A5%20Xlash/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/c1x3ivkqqvvsjscif71y.jpg",
-   "url": "https://ion.xlash.com/t/t?a=1864139588&as=2074526845&t=2&tk=1",
-   "type": "kampanje",
-   "date": "2026-11-09T11:14:30.407Z"
-  },
-  {
-   "brand": "Newport",
-   "title": "20-70 % rabatt på utvalgte produkter under Black Week",
-   "text": "",
-   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,h_1080,w_1080/e_gradient_fade,y_0.42,b_rgb:0B1A30/e_gradient_fade,y_-0.22,b_rgb:0B1A30/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:NEWPORT/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:Opptil%2070%20%2525%20rabatt/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/efcnwvr5yprjmcawyyvd.jpg",
-   "url": "https://id.newporthome.no/t/t?a=1888527790&as=2074526845&t=2&tk=1",
-   "type": "kampanje",
-   "date": "2026-11-09T10:34:04.236Z"
-  },
-  {
-   "brand": "Xplora",
-   "title": "XGO3 fra 1.890,- til 890,-, X6Play fra 2.490,- til 1.490,-, XploraOne fra 1.690,- til 1.190,-, tilbehør 50-70% rabatt",
-   "text": "",
-   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,h_1080,w_1080/e_gradient_fade,y_0.42,b_rgb:0B1A30/e_gradient_fade,y_-0.22,b_rgb:0B1A30/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:XPLORA/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:Black%20Weeks%20p%C3%A5%20Xplora/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/dvt3uyc6gaamt2gmffsm.jpg",
-   "url": "https://to.xplora.no/t/t?a=1199036773&as=2074526845&t=2&tk=1",
-   "type": "kampanje",
-   "date": "2026-11-09T10:34:04.236Z"
   },
   {
    "brand": "Acer",
