@@ -1,6 +1,33 @@
 {
- "updated": "2026-11-12T18:21:20Z",
+ "updated": "2026-11-13T01:06:47Z",
  "deals": [
+  {
+   "brand": "Dr. Stine",
+   "title": "20% rabatt på Black Week-salget",
+   "text": "",
+   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,w_1080,h_1080/e_blur:2000/e_brightness:-55/l_fqyvdaetf9nqk17stlwp/c_fit,w_1000,h_660/r_28/e_shadow:60,x_0,y_12/fl_layer_apply,g_south,y_120/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:DR.%20STINE/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:20%2525%20Black%20Week-rabatt/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20Se%20tilbudet%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/fqyvdaetf9nqk17stlwp.jpg",
+   "url": "https://www.awin1.com/cread.php?awinmid=125850&awinaffid=3126086",
+   "type": "kampanje",
+   "date": "2026-11-12T18:33:35.495Z"
+  },
+  {
+   "brand": "Elon",
+   "title": "opptil 65% rabatt i Black Week (cashback)",
+   "text": "",
+   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,h_1080,w_1080/e_gradient_fade,y_0.42,b_rgb:0B1A30/e_gradient_fade,y_-0.22,b_rgb:0B1A30/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:ELON/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:Opptil%2065%20%2525%20rabatt/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/orpaargqw2piq5lzkh57.jpg",
+   "url": "https://to.elon.no/t/t?a=1606753966&as=2074526845&t=2&tk=1",
+   "type": "kampanje",
+   "date": "2026-11-12T18:33:35.495Z"
+  },
+  {
+   "brand": "Agelab",
+   "title": "35% rabatt på de fleste produkter, opptil 50% på første levering med abonnement, og gratis Kreatin 180g (verdi 139 kr) med hver bestilling. ",
+   "text": "",
+   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,h_1080,w_1080/e_gradient_fade,y_0.42,b_rgb:0B1A30/e_gradient_fade,y_-0.22,b_rgb:0B1A30/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:AGELAB/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:35%20%2525%20rabatt%20%2B%20gratis%20kreatin/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/r2xfsxr0pco2widxbly3.jpg",
+   "url": "https://on.agelab.no/t/t?a=1983136777&as=2074526845&t=2&tk=1",
+   "type": "kampanje",
+   "date": "2026-11-12T18:33:35.495Z"
+  },
   {
    "brand": "Stille",
    "title": "50% rabatt på alt sengetøy",
@@ -47,19 +74,10 @@
    "date": "2026-11-11T11:20:20.135Z"
   },
   {
-   "brand": "iRobot",
-   "title": "Fra 8.999 til 5.599 kr, kun til 12. november",
-   "text": "",
-   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,w_1080,h_1080/e_blur:2000/e_brightness:-55/l_axassfs3odabubpyyykw/c_fit,w_1000,h_660/r_28/e_shadow:60,x_0,y_12/fl_layer_apply,g_south,y_120/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:IROBOT%20NO/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:5.599%20kr%20p%C3%A5%20Roomba/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20Se%20tilbudet%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/axassfs3odabubpyyykw.jpg",
-   "url": "https://on.irobot.no/t/t?a=2055097048&as=2074526845&t=2&tk=1",
-   "type": "kampanje",
-   "date": "2026-11-11T11:20:20.135Z"
-  },
-  {
    "brand": "Björn Borg",
    "title": "22 % rabatt på alle styles i 24 timer (gjelder ikke allerede nedsatte varer)",
    "text": "",
-   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,h_1080,w_1080/e_gradient_fade,y_0.42,b_rgb:0B1A30/e_gradient_fade,y_-0.22,b_rgb:0B1A30/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:BJ%C3%96RN%20BORG/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:22%20%2525%20p%C3%A5%20alt%20i%20dag/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/bslwjdavnedgcu8wocgx.jpg",
+   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,w_1080,h_1080/e_blur:2000/e_brightness:-55/l_axassfs3odabubpyyykw/c_fit,w_1000,h_660/r_28/e_shadow:60,x_0,y_12/fl_layer_apply,g_south,y_120/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:IROBOT%20NO/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:5.599%20kr%20p%C3%A5%20Roomba/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20Se%20tilbudet%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/axassfs3odabubpyyykw.jpg",
    "url": "https://to.bjornborg.com/t/t?a=1887444812&as=2074526845&t=2&tk=1",
    "type": "kampanje",
    "date": "2026-11-11T11:20:20.135Z"
@@ -68,7 +86,7 @@
    "brand": "Safira",
    "title": "11 % + 11 % rabatt på alt med kode SINGLESDAY",
    "text": "",
-   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,h_1080,w_1080/e_gradient_fade,y_0.42,b_rgb:0B1A30/e_gradient_fade,y_-0.22,b_rgb:0B1A30/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:SAFIRA/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:11%2525%2B11%2525%20p%C3%A5%20alt/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/ce3b0s8dd1ajq5eh5qva.jpg",
+   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,h_1080,w_1080/e_gradient_fade,y_0.42,b_rgb:0B1A30/e_gradient_fade,y_-0.22,b_rgb:0B1A30/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:BJ%C3%96RN%20BORG/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:22%20%2525%20p%C3%A5%20alt%20i%20dag/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/bslwjdavnedgcu8wocgx.jpg",
    "url": "https://go.safira.com/t/t?a=1922334167&as=2074526845&t=2&tk=1",
    "type": "kampanje",
    "date": "2026-11-11T11:20:20.135Z"
