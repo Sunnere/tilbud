@@ -1,6 +1,15 @@
 {
- "updated": "2026-11-14T15:07:27Z",
+ "updated": "2026-11-14T20:44:26Z",
  "deals": [
+  {
+   "brand": "Agelab",
+   "title": "35% rabatt + gratis kreatin med kode VIP, gyldig til mandag 16. november",
+   "text": "",
+   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,h_1080,w_1080/e_gradient_fade,y_0.42,b_rgb:0B1A30/e_gradient_fade,y_-0.22,b_rgb:0B1A30/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:AGELAB/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:35%2525%20rabatt%20%2B%20gratis%20kreatin/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/r0uetxyilzf2iyxuiklh.jpg",
+   "url": "https://on.agelab.no/t/t?a=1983136777&as=2074526845&t=2&tk=1",
+   "type": "kampanje",
+   "date": "2026-11-14T18:31:41.764Z"
+  },
   {
    "brand": "Dyson",
    "title": "-48 % på Spot+Scrub Ai",
@@ -106,15 +115,6 @@
    "text": "",
    "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,h_1080,w_1080/e_gradient_fade,y_0.42,b_rgb:0B1A30/e_gradient_fade,y_-0.22,b_rgb:0B1A30/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:ELON/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:Opptil%2065%20%2525%20rabatt/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/orpaargqw2piq5lzkh57.jpg",
    "url": "https://to.elon.no/t/t?a=1606753966&as=2074526845&t=2&tk=1",
-   "type": "kampanje",
-   "date": "2026-11-12T18:33:35.495Z"
-  },
-  {
-   "brand": "Agelab",
-   "title": "35% rabatt på de fleste produkter, opptil 50% på første levering med abonnement, og gratis Kreatin 180g (verdi 139 kr) med hver bestilling. ",
-   "text": "",
-   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,h_1080,w_1080/e_gradient_fade,y_0.42,b_rgb:0B1A30/e_gradient_fade,y_-0.22,b_rgb:0B1A30/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:AGELAB/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:35%20%2525%20rabatt%20%2B%20gratis%20kreatin/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/r2xfsxr0pco2widxbly3.jpg",
-   "url": "https://on.agelab.no/t/t?a=1983136777&as=2074526845&t=2&tk=1",
    "type": "kampanje",
    "date": "2026-11-12T18:33:35.495Z"
   },
