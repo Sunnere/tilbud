@@ -1,6 +1,51 @@
 {
- "updated": "2026-11-16T06:34:23Z",
+ "updated": "2026-11-16T18:35:33Z",
  "deals": [
+  {
+   "brand": "Skruvat",
+   "title": "opptil 70% på bremsedeler og chassi, 5-40% på biltilbehør, 20% på takbokser fra Hapro og Bermude",
+   "text": "",
+   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,h_1080,w_1080/e_gradient_fade,y_0.42,b_rgb:0B1A30/e_gradient_fade,y_-0.22,b_rgb:0B1A30/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:SKRUVAT/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:Opptil%2070%20%2525%20i%20Black%20Week/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/tgo8bkjqeqlkfan6szl1.jpg",
+   "url": "https://go.skruvat.no/t/t?a=846999738&as=2074526845&t=2&tk=1",
+   "type": "kampanje",
+   "date": "2026-11-16T18:33:51.701Z"
+  },
+  {
+   "brand": "Agelab",
+   "title": "VIP-koden gir rabatt siste dag, gyldig til midnatt",
+   "text": "",
+   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,h_1080,w_1080/e_gradient_fade,y_0.42,b_rgb:0B1A30/e_gradient_fade,y_-0.22,b_rgb:0B1A30/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:AGELAB/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:VIP-koden%20gjelder%20i%20kveld/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/iwce268ekmzetx8tz19l.jpg",
+   "url": "https://on.agelab.no/t/t?a=1983136777&as=2074526845&t=2&tk=1",
+   "type": "kampanje",
+   "date": "2026-11-16T18:33:51.701Z"
+  },
+  {
+   "brand": "Dr. Stine",
+   "title": "Black-Week salg med rabatt på hudpleie",
+   "text": "",
+   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,w_1080,h_1080/e_blur:2000/e_brightness:-55/l_ued2ajrx2msatxh9ni1i/c_fit,w_1000,h_660/r_28/e_shadow:60,x_0,y_12/fl_layer_apply,g_south,y_120/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:DR.%20STINE/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:Black-Week%20p%C3%A5%20hudpleie/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20Se%20tilbudet%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/ued2ajrx2msatxh9ni1i.jpg",
+   "url": "https://www.awin1.com/cread.php?awinmid=125850&awinaffid=3126086",
+   "type": "kampanje",
+   "date": "2026-11-16T18:33:51.701Z"
+  },
+  {
+   "brand": "Dyson",
+   "title": "Spar opptil 6 400 kr på Black Friday-tilbud",
+   "text": "",
+   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,h_1080,w_1080/e_gradient_fade,y_0.42,b_rgb:0B1A30/e_gradient_fade,y_-0.22,b_rgb:0B1A30/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:DYSON/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:Spar%20opptil%206400%20kr/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20Se%20tilbudet%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/wgbhi5zglypcvo3qsjto.jpg",
+   "url": "https://www.awin1.com/cread.php?awinmid=25181&awinaffid=3126086",
+   "type": "kampanje",
+   "date": "2026-11-16T11:17:04.463Z"
+  },
+  {
+   "brand": "Kost1",
+   "title": "siste sjanse",
+   "text": "",
+   "image": "https://media.zernio.com/media/1794825069101_390b9f07025a35a6_bonusshop-ai.jpg",
+   "url": "https://go.adt284.net/t/t?a=2085431311&as=2074526845&t=2&tk=1",
+   "type": "kampanje",
+   "date": "2026-11-16T10:33:20.156Z"
+  },
   {
    "brand": "Stille",
    "title": "50% rabatt på pysjamas i Black Friday-måneden",
@@ -9,24 +54,6 @@
    "url": "https://ion.stille.no/t/t?a=2031062571&as=2074526845&t=2&tk=1",
    "type": "kampanje",
    "date": "2026-11-15T18:30:28.836Z"
-  },
-  {
-   "brand": "Kost1",
-   "title": "siste sjanse",
-   "text": "",
-   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,w_1080,h_1080/e_blur:2000/e_brightness:-55/l_euckkys2hf9hlc93pwzf/c_fit,w_1000,h_660/r_28/e_shadow:60,x_0,y_12/fl_layer_apply,g_south,y_120/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:CURLI/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:40%2525%20p%C3%A5%20beauty-tech/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/euckkys2hf9hlc93pwzf.jpg",
-   "url": "https://go.adt284.net/t/t?a=2085431311&as=2074526845&t=2&tk=1",
-   "type": "kampanje",
-   "date": "2026-11-15T11:15:48.851Z"
-  },
-  {
-   "brand": "Agelab",
-   "title": "35% rabatt + gratis kreatin med kode VIP, gyldig til mandag 16. november",
-   "text": "",
-   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,h_1080,w_1080/e_gradient_fade,y_0.42,b_rgb:0B1A30/e_gradient_fade,y_-0.22,b_rgb:0B1A30/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:AGELAB/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:35%2525%20rabatt%20%2B%20gratis%20kreatin/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/r0uetxyilzf2iyxuiklh.jpg",
-   "url": "https://on.agelab.no/t/t?a=1983136777&as=2074526845&t=2&tk=1",
-   "type": "kampanje",
-   "date": "2026-11-14T18:31:41.764Z"
   },
   {
    "brand": "Dyson",
@@ -108,33 +135,6 @@
    "url": "https://in.curli.no/t/t?a=2031658456&as=2074526845&t=2&tk=1",
    "type": "kampanje",
    "date": "2026-11-13T11:17:32.615Z"
-  },
-  {
-   "brand": "Dr. Stine",
-   "title": "20% rabatt på Black Week-salget",
-   "text": "",
-   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,w_1080,h_1080/e_blur:2000/e_brightness:-55/l_fqyvdaetf9nqk17stlwp/c_fit,w_1000,h_660/r_28/e_shadow:60,x_0,y_12/fl_layer_apply,g_south,y_120/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:DR.%20STINE/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:20%2525%20Black%20Week-rabatt/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20Se%20tilbudet%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/fqyvdaetf9nqk17stlwp.jpg",
-   "url": "https://www.awin1.com/cread.php?awinmid=125850&awinaffid=3126086",
-   "type": "kampanje",
-   "date": "2026-11-12T18:33:35.495Z"
-  },
-  {
-   "brand": "Elon",
-   "title": "opptil 65% rabatt i Black Week (cashback)",
-   "text": "",
-   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,h_1080,w_1080/e_gradient_fade,y_0.42,b_rgb:0B1A30/e_gradient_fade,y_-0.22,b_rgb:0B1A30/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:ELON/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:Opptil%2065%20%2525%20rabatt/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/orpaargqw2piq5lzkh57.jpg",
-   "url": "https://to.elon.no/t/t?a=1606753966&as=2074526845&t=2&tk=1",
-   "type": "kampanje",
-   "date": "2026-11-12T18:33:35.495Z"
-  },
-  {
-   "brand": "Lysterapi.no",
-   "title": "30% rabatt + 500 kr ekstra til de 5 første med kode LANSERING",
-   "text": "",
-   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,w_1080,h_1080/e_blur:2000/e_brightness:-55/l_hi2elsgzactt8ltovnfh/c_fit,w_1000,h_660/r_28/e_shadow:60,x_0,y_12/fl_layer_apply,g_south,y_120/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:STILLE.NO/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:50%2525%20p%C3%A5%20senget%C3%B8y/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/hi2elsgzactt8ltovnfh.jpg",
-   "url": "https://do.lysterapi.no/t/t?a=2019457240&as=2074526845&t=2&tk=1",
-   "type": "kampanje",
-   "date": "2026-11-12T11:15:46.945Z"
   }
  ]
 }
