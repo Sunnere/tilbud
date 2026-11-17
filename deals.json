@@ -1,6 +1,15 @@
 {
- "updated": "2026-11-17T02:56:57Z",
+ "updated": "2026-11-17T13:29:56Z",
  "deals": [
+  {
+   "brand": "Stille",
+   "title": "hele Black Friday-måneden?",
+   "text": "",
+   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,w_1080,h_1080/e_blur:2000/e_brightness:-55/l_tyhjcxltifeuasq5se5i/c_fit,w_1000,h_660/r_28/e_shadow:60,x_0,y_12/fl_layer_apply,g_south,y_120/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:STILLE.NO/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:50%2525%20p%C3%A5%20alt%20senget%C3%B8y/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/tyhjcxltifeuasq5se5i.jpg",
+   "url": "https://ion.stille.no/t/t?a=2031062571&as=2074526845&t=2&tk=1",
+   "type": "kampanje",
+   "date": "2026-11-17T11:15:41.243Z"
+  },
   {
    "brand": "Skruvat",
    "title": "opptil 70% på bremsedeler og chassi, 5-40% på biltilbehør, 20% på takbokser fra Hapro og Bermude",
@@ -45,15 +54,6 @@
    "url": "https://go.adt284.net/t/t?a=2085431311&as=2074526845&t=2&tk=1",
    "type": "kampanje",
    "date": "2026-11-16T10:33:20.156Z"
-  },
-  {
-   "brand": "Stille",
-   "title": "50% rabatt på pysjamas i Black Friday-måneden",
-   "text": "",
-   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,w_1080,h_1080/e_blur:2000/e_brightness:-55/l_vg27ljekaxlwykmm9spr/c_fit,w_1000,h_660/r_28/e_shadow:60,x_0,y_12/fl_layer_apply,g_south,y_120/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:STILLE.NO/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:50%20%2525%20p%C3%A5%20pysjamas/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/vg27ljekaxlwykmm9spr.jpg",
-   "url": "https://ion.stille.no/t/t?a=2031062571&as=2074526845&t=2&tk=1",
-   "type": "kampanje",
-   "date": "2026-11-15T18:30:28.836Z"
   },
   {
    "brand": "Dyson",
@@ -117,24 +117,6 @@
    "url": "https://to.smaaungene.no/t/t?a=2057057213&as=2074526845&t=2&tk=1",
    "type": "kampanje",
    "date": "2026-11-13T18:32:16.436Z"
-  },
-  {
-   "brand": "iRobot",
-   "title": "Black Week-tilbud på nye Roomba Combo-robotstøvsugere",
-   "text": "",
-   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,w_1080,h_1080/e_blur:2000/e_brightness:-55/l_knh3camutqt5acefphow/c_fit,w_1000,h_660/r_28/e_shadow:60,x_0,y_12/fl_layer_apply,g_south,y_120/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:KOST1/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:Opptil%2069%2525%20p%C3%A5%20kosttilskudd/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/knh3camutqt5acefphow.jpg",
-   "url": "https://on.irobot.no/t/t?a=2055097048&as=2074526845&t=2&tk=1",
-   "type": "kampanje",
-   "date": "2026-11-13T11:17:32.615Z"
-  },
-  {
-   "brand": "CURLI",
-   "title": "Opptil 50% rabatt på hele nettbutikken i november (40% ved 1 produkt, 45% ved 2, 50% ved 3+), gratis frakt, gratis børste ved kjøp over 3100",
-   "text": "",
-   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,h_1080,w_1080/e_gradient_fade,y_0.42,b_rgb:0B1A30/e_gradient_fade,y_-0.22,b_rgb:0B1A30/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:IROBOT%20NO/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:Black%20Week%20p%C3%A5%20Roomba/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/u4s6xzg1lrzlo2ktpwnt.jpg",
-   "url": "https://in.curli.no/t/t?a=2031658456&as=2074526845&t=2&tk=1",
-   "type": "kampanje",
-   "date": "2026-11-13T11:17:32.615Z"
   }
  ]
 }
