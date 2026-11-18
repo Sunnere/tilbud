@@ -1,6 +1,15 @@
 {
- "updated": "2026-11-18T07:33:10Z",
+ "updated": "2026-11-18T17:17:11Z",
  "deals": [
+  {
+   "brand": "Lysterapi.no",
+   "title": "40-50% rabatt på alle varer under Black Week",
+   "text": "",
+   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,w_1080,h_1080/e_blur:2000/e_brightness:-55/l_jtdvtyueesgj1r0px4yu/c_fit,w_1000,h_660/r_28/e_shadow:60,x_0,y_12/fl_layer_apply,g_south,y_120/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:LYSTERAPI.NO/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:Opptil%2050%2525%20p%C3%A5%20r%C3%B8dlysprodukter/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/jtdvtyueesgj1r0px4yu.jpg",
+   "url": "https://do.lysterapi.no/t/t?a=2019457240&as=2074526845&t=2&tk=1",
+   "type": "kampanje",
+   "date": "2026-11-18T11:15:42.697Z"
+  },
   {
    "brand": "Stille",
    "title": "hele Black Friday-måneden?",
@@ -81,15 +90,6 @@
    "url": "https://www.awin1.com/pclick.php?p=44425547815&a=3126086&m=24784",
    "type": "produkt",
    "date": "2026-11-14T12:37:34Z"
-  },
-  {
-   "brand": "SharkNinja",
-   "title": "verdt å vente på?",
-   "text": "",
-   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,h_1080,w_1080/e_gradient_fade,y_0.42,b_rgb:0B1A30/e_gradient_fade,y_-0.22,b_rgb:0B1A30/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:SHARKNINJA/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:Opptil%2040%2525%20i%20BF-rabatt/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20Se%20tilbudet%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/r0kabzvb6mugsrbqyrit.jpg",
-   "url": "https://www.awin1.com/cread.php?awinmid=81671&awinaffid=3126086",
-   "type": "kampanje",
-   "date": "2026-11-14T11:16:56.077Z"
   }
  ]
 }
