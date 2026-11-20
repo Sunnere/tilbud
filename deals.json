@@ -1,6 +1,15 @@
 {
- "updated": "2026-11-20T12:57:02Z",
+ "updated": "2026-11-20T21:50:05Z",
  "deals": [
+  {
+   "brand": "Safira",
+   "title": "25 % rabatt på alle varer",
+   "text": "",
+   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,h_1080,w_1080/e_gradient_fade,y_0.42,b_rgb:0B1A30/e_gradient_fade,y_-0.22,b_rgb:0B1A30/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:SAFIRA/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:25%20%2525%20p%C3%A5%20alle%20smykker/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/ljv9llfookusudsc1cjb.jpg",
+   "url": "https://go.safira.com/t/t?a=1922334167&as=2074526845&t=2&tk=1",
+   "type": "kampanje",
+   "date": "2026-11-20T18:31:59.498Z"
+  },
   {
    "brand": "Sofas and More",
    "title": "Opptil 70 % rabatt på Black Friday",
@@ -36,33 +45,6 @@
    "url": "https://do.lysterapi.no/t/t?a=2019457240&as=2074526845&t=2&tk=1",
    "type": "kampanje",
    "date": "2026-11-18T11:15:42.697Z"
-  },
-  {
-   "brand": "Skruvat",
-   "title": "opptil 70% på bremsedeler og chassi, 5-40% på biltilbehør, 20% på takbokser fra Hapro og Bermude",
-   "text": "",
-   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,h_1080,w_1080/e_gradient_fade,y_0.42,b_rgb:0B1A30/e_gradient_fade,y_-0.22,b_rgb:0B1A30/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:SKRUVAT/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:Opptil%2070%20%2525%20i%20Black%20Week/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/tgo8bkjqeqlkfan6szl1.jpg",
-   "url": "https://go.skruvat.no/t/t?a=846999738&as=2074526845&t=2&tk=1",
-   "type": "kampanje",
-   "date": "2026-11-16T18:33:51.701Z"
-  },
-  {
-   "brand": "Agelab",
-   "title": "VIP-koden gir rabatt siste dag, gyldig til midnatt",
-   "text": "",
-   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,h_1080,w_1080/e_gradient_fade,y_0.42,b_rgb:0B1A30/e_gradient_fade,y_-0.22,b_rgb:0B1A30/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:AGELAB/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:VIP-koden%20gjelder%20i%20kveld/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/iwce268ekmzetx8tz19l.jpg",
-   "url": "https://on.agelab.no/t/t?a=1983136777&as=2074526845&t=2&tk=1",
-   "type": "kampanje",
-   "date": "2026-11-16T18:33:51.701Z"
-  },
-  {
-   "brand": "Dr. Stine",
-   "title": "Black-Week salg med rabatt på hudpleie",
-   "text": "",
-   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,w_1080,h_1080/e_blur:2000/e_brightness:-55/l_ued2ajrx2msatxh9ni1i/c_fit,w_1000,h_660/r_28/e_shadow:60,x_0,y_12/fl_layer_apply,g_south,y_120/co_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:DR.%20STINE/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:Black-Week%20p%C3%A5%20hudpleie/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20Se%20tilbudet%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/ued2ajrx2msatxh9ni1i.jpg",
-   "url": "https://www.awin1.com/cread.php?awinmid=125850&awinaffid=3126086",
-   "type": "kampanje",
-   "date": "2026-11-16T18:33:51.701Z"
   },
   {
    "brand": "Dyson",
