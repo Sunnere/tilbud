@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-22T12:38:09Z",
+ "updated": "2026-11-22T20:44:13Z",
  "deals": [
+  {
+   "brand": "Kost1",
+   "title": "Spar opptil 90% i Black Week, 3-pack Magnesium Glycinate med 47% rabatt",
+   "text": "",
+   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,h_1080,w_1080/e_gradient_fade,y_0.42,b_rgb:0B1A30/e_gradient_fade,y_-0.22,b_rgb:0B1A30/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:KOST1/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:Opptil%2090%2525%20rabatt/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/uagh8nqvbkgrwd2sjtrg.jpg",
+   "url": "https://go.adt284.net/t/t?a=2085431311&as=2074526845&t=2&tk=1",
+   "type": "kampanje",
+   "date": "2026-11-22T18:32:03.514Z"
+  },
+  {
+   "brand": "Stille",
+   "title": "50% rabatt på alt i Black Friday-måneden, inkludert bambusdyner, -puter og sengetøy",
+   "text": "",
+   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,w_1080,h_1080/e_blur:2000/e_brightness:-55/l_tjs8pmpaemdbdfgjuiqz/c_fit,w_1000,h_660/r_28/e_shadow:60,x_0,y_12/fl_layer_apply,g_south,y_120/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:STILLE.NO/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:50%2525%20p%C3%A5%20bambusdyner/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/tjs8pmpaemdbdfgjuiqz.jpg",
+   "url": "https://ion.stille.no/t/t?a=2031062571&as=2074526845&t=2&tk=1",
+   "type": "kampanje",
+   "date": "2026-11-22T18:32:03.514Z"
+  },
   {
    "brand": "Dyson",
    "title": "-52 % på SV46 V12 DTSlim+DCKit",
@@ -52,15 +70,6 @@
    "text": "",
    "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,h_1080,w_1080/e_gradient_fade,y_0.42,b_rgb:0B1A30/e_gradient_fade,y_-0.22,b_rgb:0B1A30/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:L'OCCITANE/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:20%20%2525%20p%C3%A5%20alt%20hos%20L'Occitane/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/y3j8eernczuo3hd9vkg9.jpg",
    "url": "https://no-pin.loccitane.com/t/t?a=1817062154&as=2074526845&t=2&tk=1",
-   "type": "kampanje",
-   "date": "2026-11-20T11:18:45.800Z"
-  },
-  {
-   "brand": "Stille",
-   "title": "50% rabatt på alt sengetøy (cashback)",
-   "text": "",
-   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,w_1080,h_1080/e_blur:2000/e_brightness:-55/l_iighq3wq7jg6gberykbj/c_fit,w_1000,h_660/r_28/e_shadow:60,x_0,y_12/fl_layer_apply,g_south,y_120/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:STILLE.NO/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:50%2525%20rabatt%20p%C3%A5%20alt/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/iighq3wq7jg6gberykbj.jpg",
-   "url": "https://ion.stille.no/t/t?a=2031062571&as=2074526845&t=2&tk=1",
    "type": "kampanje",
    "date": "2026-11-20T11:18:45.800Z"
   }
