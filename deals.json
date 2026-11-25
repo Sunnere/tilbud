@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T14:54:07Z",
+ "updated": "2026-11-25T00:47:15Z",
  "deals": [
   {
    "brand": "Kost1",
@@ -72,15 +72,6 @@
    "url": "https://www.awin1.com/pclick.php?p=40640893174&a=3126086&m=24784",
    "type": "produkt",
    "date": "2026-11-21T13:49:47Z"
-  },
-  {
-   "brand": "Safira",
-   "title": "25 % rabatt på alle varer",
-   "text": "",
-   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,h_1080,w_1080/e_gradient_fade,y_0.42,b_rgb:0B1A30/e_gradient_fade,y_-0.22,b_rgb:0B1A30/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:SAFIRA/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:25%20%2525%20p%C3%A5%20alle%20smykker/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/ljv9llfookusudsc1cjb.jpg",
-   "url": "https://go.safira.com/t/t?a=1922334167&as=2074526845&t=2&tk=1",
-   "type": "kampanje",
-   "date": "2026-11-20T18:31:59.498Z"
   }
  ]
 }
