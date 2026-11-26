@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-26T13:56:08Z",
+ "updated": "2026-11-26T22:59:56Z",
  "deals": [
+  {
+   "brand": "Sofas and More",
+   "title": "opptil 70 % rabatt på Black Friday",
+   "text": "",
+   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,h_1080,w_1080/e_gradient_fade,y_0.42,b_rgb:0B1A30/e_gradient_fade,y_-0.22,b_rgb:0B1A30/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:SOFAS%20AND%20MORE/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:Opptil%2070%20%2525%20p%C3%A5%20sofaer/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20Se%20tilbudet%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/k8j6fustf5ltvp76v3a1.jpg",
+   "url": "https://www.awin1.com/cread.php?awinmid=116085&awinaffid=3126086",
+   "type": "kampanje",
+   "date": "2026-11-26T18:33:19.741Z"
+  },
+  {
+   "brand": "Dyson",
+   "title": "spar 4 500 kr (48%) på V12s Detect Slim Submarine, ekstra 100 kr med kode BF-100EXTRA, opptil 6 400 kr rabatt på Black Friday",
+   "text": "",
+   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,h_1080,w_1080/e_gradient_fade,y_0.42,b_rgb:0B1A30/e_gradient_fade,y_-0.22,b_rgb:0B1A30/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:DYSON/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:Opptil%206%20400%20kr%20rabatt/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20Se%20tilbudet%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/fz4jxg2v78o6xfj3ymez.jpg",
+   "url": "https://www.awin1.com/cread.php?awinmid=25181&awinaffid=3126086",
+   "type": "kampanje",
+   "date": "2026-11-26T18:33:19.741Z"
+  },
   {
    "brand": "Kouture",
    "title": "25% rabatt på alle kjoler",
@@ -54,15 +72,6 @@
    "url": "https://to.bjornborg.com/t/t?a=1887444812&as=2074526845&t=2&tk=1",
    "type": "kampanje",
    "date": "2026-11-24T11:18:40.915Z"
-  },
-  {
-   "brand": "Stille",
-   "title": "50% rabatt på alt i Black Friday-måneden, inkludert bambusdyner, -puter og sengetøy",
-   "text": "",
-   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,h_1080,w_1080/e_gradient_fade,y_0.42,b_rgb:0B1A30/e_gradient_fade,y_-0.22,b_rgb:0B1A30/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:KOST1/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:Opptil%2090%2525%20rabatt/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/uagh8nqvbkgrwd2sjtrg.jpg",
-   "url": "https://ion.stille.no/t/t?a=2031062571&as=2074526845&t=2&tk=1",
-   "type": "kampanje",
-   "date": "2026-11-22T18:32:03.514Z"
   },
   {
    "brand": "Dyson",
