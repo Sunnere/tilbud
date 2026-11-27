@@ -1,6 +1,69 @@
 {
- "updated": "2026-11-27T08:39:01Z",
+ "updated": "2026-11-27T19:29:28Z",
  "deals": [
+  {
+   "brand": "Fabel",
+   "title": "85 % rabatt på Familie, Duo og Standard i 2 måneder, fra 30 kr/mnd med kode kupp85, gyldig t.o.m. 30. november 2026",
+   "text": "",
+   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,h_1080,w_1080/e_gradient_fade,y_0.42,b_rgb:0B1A30/e_gradient_fade,y_-0.22,b_rgb:0B1A30/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:FABEL/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:85%20%2525%20rabatt%20p%C3%A5%20lydb%C3%B8ker/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/hxmbaqi6scrvnhqxspfx.jpg",
+   "url": "https://in.fabel.no/t/t?a=1550298256&as=2074526845&t=2&tk=1",
+   "type": "kampanje",
+   "date": "2026-11-27T11:19:29.369Z"
+  },
+  {
+   "brand": "Dekk.eu",
+   "title": "10% rabatt på Continental- og Goodyear-dekk til de første 1000 kundene, 27.-30. november 2026",
+   "text": "",
+   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,w_1080,h_1080/e_blur:2000/e_brightness:-55/l_wqkvqkyfudszfwqmcihp/c_fit,w_1000,h_660/r_28/e_shadow:60,x_0,y_12/fl_layer_apply,g_south,y_120/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:DEKK.EU/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:10%2525%20p%C3%A5%20Continental%20og%20Goodyear/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/wqkvqkyfudszfwqmcihp.jpg",
+   "url": "https://pin.dekk.eu/t/t?a=1587728672&as=2074526845&t=2&tk=1",
+   "type": "kampanje",
+   "date": "2026-11-27T11:19:29.369Z"
+  },
+  {
+   "brand": "Kost1",
+   "title": "Spar opptil 90% på flere hundre utvalgte produkter i Black Friday-salget",
+   "text": "",
+   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,w_1080,h_1080/e_blur:2000/e_brightness:-55/l_nnuoa5ftkcxk0mwecjsy/c_fit,w_1000,h_660/r_28/e_shadow:60,x_0,y_12/fl_layer_apply,g_south,y_120/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:KOST1/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:Opptil%2090%2525%20p%C3%A5%20kosttilskudd/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/nnuoa5ftkcxk0mwecjsy.jpg",
+   "url": "https://go.adt284.net/t/t?a=2085431311&as=2074526845&t=2&tk=1",
+   "type": "kampanje",
+   "date": "2026-11-27T11:19:29.369Z"
+  },
+  {
+   "brand": "SharkNinja",
+   "title": "Spar opptil 40 % på utvalgte produkter i Black Friday-salget",
+   "text": "",
+   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,w_1080,h_1080/e_blur:2000/e_brightness:-55/l_gpcpixvqlpiaiqjunbiz/c_fit,w_1000,h_660/r_28/e_shadow:60,x_0,y_12/fl_layer_apply,g_south,y_120/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:SHARKNINJA/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:Opptil%2040%20%2525%20Black%20Friday/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20Se%20tilbudet%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/gpcpixvqlpiaiqjunbiz.jpg",
+   "url": "https://www.awin1.com/cread.php?awinmid=81671&awinaffid=3126086",
+   "type": "kampanje",
+   "date": "2026-11-27T11:19:29.369Z"
+  },
+  {
+   "brand": "Småungene",
+   "title": "Opptil 50 % på ull i Black Week, gjelder utvalgte varer til og med 30. november",
+   "text": "",
+   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,w_1080,h_1080/e_blur:2000/e_brightness:-55/l_dqq7hpgax64yyswdbe8y/c_fit,w_1000,h_660/r_28/e_shadow:60,x_0,y_12/fl_layer_apply,g_south,y_120/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:SM%C3%85UNGENE/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:Opptil%2050%20%2525%20p%C3%A5%20ull/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/dqq7hpgax64yyswdbe8y.jpg",
+   "url": "https://to.smaaungene.no/t/t?a=2057057213&as=2074526845&t=2&tk=1",
+   "type": "kampanje",
+   "date": "2026-11-27T11:19:29.369Z"
+  },
+  {
+   "brand": "Dr. Stine",
+   "title": "20% rabatt",
+   "text": "",
+   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,h_1080,w_1080/e_gradient_fade,y_0.42,b_rgb:0B1A30/e_gradient_fade,y_-0.22,b_rgb:0B1A30/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:DR.%20STINE/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:20%2525%20p%C3%A5%20hudpleie/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20Se%20tilbudet%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/s2bwwuz613biduippnmo.jpg",
+   "url": "https://www.awin1.com/cread.php?awinmid=125850&awinaffid=3126086",
+   "type": "kampanje",
+   "date": "2026-11-27T11:19:29.369Z"
+  },
+  {
+   "brand": "Stille",
+   "title": "50% rabatt på alt",
+   "text": "",
+   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,w_1080,h_1080/e_blur:2000/e_brightness:-55/l_nxt4emw5mkurdtg9cf7u/c_fit,w_1000,h_660/r_28/e_shadow:60,x_0,y_12/fl_layer_apply,g_south,y_120/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:STILLE.NO/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:50%2525%20p%C3%A5%20alt/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/nxt4emw5mkurdtg9cf7u.jpg",
+   "url": "https://ion.stille.no/t/t?a=2031062571&as=2074526845&t=2&tk=1",
+   "type": "kampanje",
+   "date": "2026-11-27T11:19:29.369Z"
+  },
   {
    "brand": "Sofas and More",
    "title": "opptil 70 % rabatt på Black Friday",
@@ -38,15 +101,6 @@
    "date": "2026-11-26T11:18:43.513Z"
   },
   {
-   "brand": "Dr. Stine",
-   "title": "kollagen i tablettform med havtorn, hyaluronsyre, vitamin C og kobber",
-   "text": "",
-   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/f_jpg/q_auto/v1795637749/fopvryroaju6uir3a6dg.jpg",
-   "url": "https://www.awin1.com/cread.php?awinmid=125850&awinaffid=3126086",
-   "type": "kampanje",
-   "date": "2026-11-25T20:16:06.194Z"
-  },
-  {
    "brand": "CURLI",
    "title": "og gratis gaver på kjøpet?",
    "text": "",
@@ -56,19 +110,10 @@
    "date": "2026-11-25T11:17:07.720Z"
   },
   {
-   "brand": "Kost1",
-   "title": "Opptil 90% rabatt på flere hundre produkter i Black Week-salget",
-   "text": "",
-   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,w_1080,h_1080/e_blur:2000/e_brightness:-55/l_scirefsdw8m0ojvutwhd/c_fit,w_1000,h_660/r_28/e_shadow:60,x_0,y_12/fl_layer_apply,g_south,y_120/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:KOST1/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:Opptil%2090%2525%20p%C3%A5%20Kost1/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/scirefsdw8m0ojvutwhd.jpg",
-   "url": "https://go.adt284.net/t/t?a=2085431311&as=2074526845&t=2&tk=1",
-   "type": "kampanje",
-   "date": "2026-11-24T11:18:40.915Z"
-  },
-  {
    "brand": "Björn Borg",
    "title": "Opptil 40 % rabatt på store deler av sortimentet",
    "text": "",
-   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,h_1080,w_1080/e_gradient_fade,y_0.42,b_rgb:0B1A30/e_gradient_fade,y_-0.22,b_rgb:0B1A30/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:BJ%C3%96RN%20BORG/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:Opptil%2040%20%2525%20p%C3%A5%20Bj%C3%B6rn%20Borg/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/lh1xebnwgv9dlxojwmdf.jpg",
+   "image": "https://res.cloudinary.com/ds3xrvivm/image/upload/c_fill,g_auto,w_1080,h_1080/e_blur:2000/e_brightness:-55/l_scirefsdw8m0ojvutwhd/c_fit,w_1000,h_660/r_28/e_shadow:60,x_0,y_12/fl_layer_apply,g_south,y_120/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_40_bold_letter_spacing_8:KOST1/fl_layer_apply,g_north_west,x_64,y_62/co_white,c_fit,w_950,l_text:Montserrat_80_bold_line_spacing_-14:Opptil%2090%2525%20p%C3%A5%20Kost1/fl_layer_apply,g_north_west,x_60,y_122/co_rgb:0B1A30,b_rgb:D4AF37,l_text:Montserrat_36_bold:%20%20%20%20%2B%20cashback%20via%20bonusshop.no%20%20%20%20/fl_layer_apply,g_south,y_42/f_jpg/q_auto/scirefsdw8m0ojvutwhd.jpg",
    "url": "https://to.bjornborg.com/t/t?a=1887444812&as=2074526845&t=2&tk=1",
    "type": "kampanje",
    "date": "2026-11-24T11:18:40.915Z"
